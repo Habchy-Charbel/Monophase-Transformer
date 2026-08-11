@@ -48,7 +48,7 @@ export const ResultSummary: React.FC<ResultSummaryProps> = ({ result, onReset })
   return (
     <div className="view-enter" style={{ maxWidth: 820, margin: '0 auto', display: 'flex', flexDirection: 'column', gap: 16 }}>
 
-      <div className="no-print" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 10 }}>
+      <div className="no-print" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', flexWrap: 'wrap', gap: 10 }} >
         <button onClick={onReset} className="ios-button ios-button-secondary" style={{ fontSize: 13 }}>
           <ArrowLeft size={15} />
           Back to Inputs
@@ -114,14 +114,14 @@ export const ResultSummary: React.FC<ResultSummaryProps> = ({ result, onReset })
         )}
       </div>
 
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }}>
+      <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 16 }} className="mobile-stack">
 
         <div className="glass-card" style={{ padding: '18px 20px' }}>
           <div className="section-header" style={{ color: '#60a5fa' }}>
             <Zap size={13} color="#60a5fa" />
             Electrical
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 10 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 10 }} className="mobile-stack">
             <StatCell label="Primary Voltage"   value={`${fmt2(result.inputVoltage)} V`} />
             <StatCell label="Primary Current"   value={`${fmt2(result.inputCurrent)} A`} />
             <StatCell label="Secondary Voltage" value={`${fmt2(result.outputVoltage)} V`} />
@@ -138,7 +138,7 @@ export const ResultSummary: React.FC<ResultSummaryProps> = ({ result, onReset })
             <Layers size={13} color="#818cf8" />
             Lamination Core
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 10 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 10 }} className="mobile-stack">
             <StatCell label="Tongue Width (a)" value={`${fmt2(result.a)} cm`} />
             <StatCell label="Stack Height (b)"  value={`${fmt2(result.b)} cm`} />
             <div className="stat-cell" style={{ gridColumn: '1 / -1' }}>
@@ -211,7 +211,7 @@ export const ResultSummary: React.FC<ResultSummaryProps> = ({ result, onReset })
           </div>
         </div>
 
-        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 10 }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 10 }} className="mobile-stack">
           {[
             { label: 'Iron Core',    value: result.ironCost,       sub: `${fmt2(result.ironWeightKg)} kg`,   color: '#60a5fa' },
             { label: 'Copper Wire',  value: result.copperCost,     sub: `${fmt2(result.copperWeightKg)} kg`, color: '#818cf8' },

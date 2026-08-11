@@ -30,6 +30,7 @@ export const BlueprintModal: React.FC<BlueprintModalProps> = ({ result, onClose 
     >
       <div
         className="glass-card"
+        data-blueprint
         style={{
           width: '100%',
           maxWidth: 860,
@@ -87,7 +88,10 @@ export const BlueprintModal: React.FC<BlueprintModalProps> = ({ result, onClose 
           <canvas
             ref={canvasRef}
             style={{
-              maxWidth: '100%', height: 'auto',
+              display: 'block',
+              width: '100%',
+              height: 'auto',
+              maxWidth: '100%',
               borderRadius: 12,
               border: '1px solid var(--border-subtle)',
               boxShadow: '0 4px 24px rgba(0,0,0,0.4)',
@@ -96,7 +100,7 @@ export const BlueprintModal: React.FC<BlueprintModalProps> = ({ result, onClose 
         </div>
 
         <div className="no-print" style={{
-          display: 'flex', justifyContent: 'flex-end', gap: 10,
+          display: 'flex', justifyContent: 'flex-end', gap: 10, flexWrap: 'wrap',
           padding: '14px 22px', borderTop: '1px solid var(--border-subtle)',
         }}>
           <button onClick={handleDownload} className="ios-button ios-button-secondary" style={{ fontSize: 13 }}>

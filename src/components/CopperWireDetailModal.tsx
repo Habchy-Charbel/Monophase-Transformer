@@ -83,7 +83,7 @@ export const CopperWireDetailModal: React.FC<CopperWireDetailModalProps> = ({
 
           <div>
             <div className="section-header" style={{ marginBottom: 10 }}>Physical Properties</div>
-            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 8 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: 'repeat(3, 1fr)', gap: 8 }} className="mobile-stack">
               {[
                 { label: 'Diameter',      value: `${fv(commercial.diameter_mm, 3)} mm` },
                 { label: 'Section',       value: `${fv(commercial.section_mm2, 5)} mm²` },
@@ -107,7 +107,7 @@ export const CopperWireDetailModal: React.FC<CopperWireDetailModalProps> = ({
 
           <div>
             <div className="section-header" style={{ marginBottom: 10 }}>Max Current by Grade</div>
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8 }}>
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 8 }} className="mobile-stack">
               {GRADE_META.map(gm => {
                 const wire = gradeData[gm.key];
                 return (

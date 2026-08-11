@@ -17,7 +17,7 @@ export function App() {
 
   return (
     <div style={{ minHeight: '100dvh', display: 'flex', flexDirection: 'column' }}>
-      <main style={{ flex: 1, maxWidth: 1100, width: '100%', margin: '0 auto', padding: '32px 16px 100px', boxSizing: 'border-box' }}>
+      <main className="app-main">
         {activeTab === 'calculator' && (
           <>
             {calcResult ? (

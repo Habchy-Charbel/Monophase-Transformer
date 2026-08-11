@@ -168,7 +168,7 @@ export const MonophaseCalculator: React.FC<MonophaseCalculatorProps> = ({ onCalc
             <Zap size={13} color="#60a5fa" />
             Electrical Specs & Flux Density
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 14 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 14 }} className="mobile-stack">
             <Field label="Primary Voltage"    value={inVoltage}     setter={setInVoltage}     placeholder="220"   unit="V" />
             <Field label="Secondary Voltage"  value={outVoltage}    setter={setOutVoltage}    placeholder="12"    unit="V" />
             <Field label="Apparent Power"     value={apparentPower} setter={setApparentPower} placeholder="120"   unit="VA" />
@@ -184,7 +184,7 @@ export const MonophaseCalculator: React.FC<MonophaseCalculatorProps> = ({ onCalc
               (optional)
             </span>
           </div>
-          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 14 }}>
+          <div style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 14 }} className="mobile-stack">
             <Field label="Iron Price"         value={ironPrice}        setter={setIronPrice}        placeholder="0.00" unit="$/kg" />
             <Field label="Copper Price"       value={copperPrice}      setter={setCopperPrice}      placeholder="0.00" unit="$/kg" />
             <Field label="Bobbin Price"       value={bobbinPrice}      setter={setBobbinPrice}      placeholder="0.00" unit="$" />
@@ -208,7 +208,7 @@ export const MonophaseCalculator: React.FC<MonophaseCalculatorProps> = ({ onCalc
           </div>
         )}
 
-        <div style={{ display: 'flex', justifyContent: 'flex-end', gap: 10 }}>
+        <div style={{ display: 'flex', justifyContent: 'flex-end', gap: 10, flexWrap: 'wrap' }} className="mobile-btn-row">
           <button type="button" onClick={handleReset} className="ios-button ios-button-secondary">
             <RotateCcw size={15} />
             Reset

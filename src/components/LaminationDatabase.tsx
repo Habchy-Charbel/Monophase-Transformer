@@ -139,33 +139,29 @@ export const LaminationDatabaseView: React.FC = () => {
                         key={`${lam.a}_${lam.b}`}
                         style={{
                           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-                          gap: 12, padding: '10px 12px', borderRadius: 10,
+                          gap: 8, padding: '10px 12px', borderRadius: 10,
                           transition: 'background 0.14s ease',
+                          flexWrap: 'wrap',
                         }}
                         onMouseEnter={e => (e.currentTarget.style.background = 'rgba(255,255,255,0.04)')}
                         onMouseLeave={e => (e.currentTarget.style.background = 'transparent')}
                       >
 
-                        <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: 8, minWidth: 0, flex: '1 1 auto' }}>
                           <div style={{
-                            padding: '6px 12px', borderRadius: 8,
+                            padding: '6px 10px', borderRadius: 8,
                             background: 'rgba(139,92,246,0.1)', border: '1px solid rgba(139,92,246,0.2)',
                             fontFamily: 'var(--font-mono)', fontWeight: 700, fontSize: 13,
-                            color: '#a78bfa', whiteSpace: 'nowrap',
+                            color: '#a78bfa', whiteSpace: 'nowrap', flexShrink: 0,
                           }}>
                             {lam.a.toFixed(1)} <span style={{ opacity: 0.5, fontSize: 10 }}>×</span> {lam.b.toFixed(1)} cm
                           </div>
-                          <div style={{ display: 'none' }} className="lam-meta">
-                            <div style={{ fontSize: 11, color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)' }}>
-                              {lam.section.toFixed(2)} cm² · {lam.weight.toFixed(1)} g
-                            </div>
-                          </div>
-                          <div style={{ fontSize: 11, color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)' }}>
+                          <div style={{ fontSize: 11, color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)', minWidth: 0, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
                             {lam.section.toFixed(2)} cm² · {lam.weight.toFixed(1)} g
                           </div>
                         </div>
 
-                        <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexShrink: 0 }}>
+                        <div style={{ display: 'flex', alignItems: 'center', gap: 6, flexShrink: 0 }}>
                           <button
                             onClick={() => handleStockToggle(lam, !lam.inStock)}
                             className={`status-badge ${lam.inStock ? 'status-instock' : 'status-outstock'}`}

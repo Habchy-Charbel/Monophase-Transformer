@@ -109,17 +109,18 @@ export const CopperWireDatabaseView: React.FC = () => {
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'space-between',
-                  gap: 12,
+                  gap: 8,
                   padding: '10px 12px',
                   borderRadius: 12,
                   transition: 'background 0.15s ease',
                   cursor: 'default',
+                  flexWrap: 'wrap',
                 }}
                 onMouseEnter={e => (e.currentTarget.style.background = 'rgba(255,255,255,0.04)')}
                 onMouseLeave={e => (e.currentTarget.style.background = 'transparent')}
               >
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, minWidth: 0, flex: '1 1 auto' }}>
                   <div style={{
                     width: 44, height: 44, borderRadius: 12, flexShrink: 0,
                     background: `${gradeColor}18`,
@@ -131,8 +132,8 @@ export const CopperWireDatabaseView: React.FC = () => {
                     <span style={{ fontSize: 10, opacity: 0.7 }}>Ø</span>
                     <span>{Math.round(wire.diameter_mm * 10)}</span>
                   </div>
-                  <div>
-                    <div style={{ fontFamily: 'var(--font-mono)', fontWeight: 700, fontSize: 14, color: 'var(--text-primary)' }}>
+                  <div style={{ minWidth: 0 }}>
+                    <div style={{ fontFamily: 'var(--font-mono)', fontWeight: 700, fontSize: 14, color: 'var(--text-primary)', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
                       {wire.diameter_mm.toFixed(3)} mm
                     </div>
                     <div style={{ fontSize: 11, color: 'var(--text-tertiary)', fontFamily: 'var(--font-mono)' }}>
@@ -141,7 +142,7 @@ export const CopperWireDatabaseView: React.FC = () => {
                   </div>
                 </div>
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: 8, flexShrink: 0 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 6, flexShrink: 0 }}>
                   <button
                     onClick={() => handleStockToggle(wire, !wire.inStock)}
                     className={`status-badge ${wire.inStock ? 'status-instock' : 'status-outstock'}`}
