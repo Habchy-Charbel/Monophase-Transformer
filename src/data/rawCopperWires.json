@@ -1,0 +1,2598 @@
+{
+  "COMMERCIAL" : [ {
+    "diameter_mm" : 0.02,
+    "diameter_mm_div10" : 0.2,
+    "weight_g_per_m" : 0.002796,
+    "section_mm2" : 3.14E-4,
+    "linear_resistance_ohm_per_m" : 54.431037,
+    "max_current_amps" : 0.001256,
+    "net_diameter_mm" : 0.027,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.025,
+    "diameter_mm_div10" : 0.25,
+    "weight_g_per_m" : 0.004369,
+    "section_mm2" : 4.9E-4,
+    "linear_resistance_ohm_per_m" : 34.835863,
+    "max_current_amps" : 0.00196,
+    "net_diameter_mm" : 0.034,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.03,
+    "diameter_mm_div10" : 0.3,
+    "weight_g_per_m" : 0.0063,
+    "section_mm2" : 7.07E-4,
+    "linear_resistance_ohm_per_m" : 24.191572,
+    "max_current_amps" : 0.002828,
+    "net_diameter_mm" : 0.039,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.032,
+    "diameter_mm_div10" : 0.32,
+    "weight_g_per_m" : 0.007158,
+    "section_mm2" : 8.04E-4,
+    "linear_resistance_ohm_per_m" : 21.262124,
+    "max_current_amps" : 0.003216,
+    "net_diameter_mm" : 0.043,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.036,
+    "diameter_mm_div10" : 0.36,
+    "weight_g_per_m" : 0.0086,
+    "section_mm2" : 9.62E-4,
+    "linear_resistance_ohm_per_m" : 16.799703,
+    "max_current_amps" : 0.003848,
+    "net_diameter_mm" : 0.049,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.04,
+    "diameter_mm_div10" : 0.4,
+    "weight_g_per_m" : 0.01118,
+    "section_mm2" : 0.001257,
+    "linear_resistance_ohm_per_m" : 13.607759,
+    "max_current_amps" : 0.005028,
+    "net_diameter_mm" : 0.054,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.05,
+    "diameter_mm_div10" : 0.5,
+    "weight_g_per_m" : 0.01747,
+    "section_mm2" : 0.001963,
+    "linear_resistance_ohm_per_m" : 8.708966,
+    "max_current_amps" : 0.007852,
+    "net_diameter_mm" : 0.066,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.063,
+    "diameter_mm_div10" : 0.63,
+    "weight_g_per_m" : 0.02774,
+    "section_mm2" : 0.003115,
+    "linear_resistance_ohm_per_m" : 5.485617,
+    "max_current_amps" : 0.01246,
+    "net_diameter_mm" : 0.083,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.071,
+    "diameter_mm_div10" : 0.71,
+    "weight_g_per_m" : 0.03524,
+    "section_mm2" : 0.003957,
+    "linear_resistance_ohm_per_m" : 4.319067,
+    "max_current_amps" : 0.015828,
+    "net_diameter_mm" : 0.091,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.08,
+    "diameter_mm_div10" : 0.8,
+    "weight_g_per_m" : 0.04474,
+    "section_mm2" : 0.005027,
+    "linear_resistance_ohm_per_m" : 3.40194,
+    "max_current_amps" : 0.020108,
+    "net_diameter_mm" : 0.101,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.09,
+    "diameter_mm_div10" : 0.9,
+    "weight_g_per_m" : 0.05662,
+    "section_mm2" : 0.006362,
+    "linear_resistance_ohm_per_m" : 2.687952,
+    "max_current_amps" : 0.025448,
+    "net_diameter_mm" : 0.113,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.1,
+    "diameter_mm_div10" : 1.0,
+    "weight_g_per_m" : 0.0699,
+    "section_mm2" : 0.007854,
+    "linear_resistance_ohm_per_m" : 2.177241,
+    "max_current_amps" : 0.031416,
+    "net_diameter_mm" : 0.125,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.15,
+    "diameter_mm_div10" : 1.5,
+    "weight_g_per_m" : 0.1573,
+    "section_mm2" : 0.017671,
+    "linear_resistance_ohm_per_m" : 0.967663,
+    "max_current_amps" : 0.070684,
+    "net_diameter_mm" : 0.182,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.2,
+    "diameter_mm_div10" : 2.0,
+    "weight_g_per_m" : 0.2796,
+    "section_mm2" : 0.03142,
+    "linear_resistance_ohm_per_m" : 0.54431,
+    "max_current_amps" : 0.12568,
+    "net_diameter_mm" : 0.239,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.224,
+    "diameter_mm_div10" : 2.24,
+    "weight_g_per_m" : 0.3507,
+    "section_mm2" : 0.03938,
+    "linear_resistance_ohm_per_m" : 0.433921,
+    "max_current_amps" : 0.15752,
+    "net_diameter_mm" : 0.266,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.25,
+    "diameter_mm_div10" : 2.5,
+    "weight_g_per_m" : 0.4369,
+    "section_mm2" : 0.04909,
+    "linear_resistance_ohm_per_m" : 0.348359,
+    "max_current_amps" : 0.19636,
+    "net_diameter_mm" : 0.297,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.28,
+    "diameter_mm_div10" : 2.8,
+    "weight_g_per_m" : 0.548,
+    "section_mm2" : 0.06158,
+    "linear_resistance_ohm_per_m" : 0.277709,
+    "max_current_amps" : 0.24632,
+    "net_diameter_mm" : 0.329,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.315,
+    "diameter_mm_div10" : 3.15,
+    "weight_g_per_m" : 0.6936,
+    "section_mm2" : 0.07789,
+    "linear_resistance_ohm_per_m" : 0.219425,
+    "max_current_amps" : 0.31156,
+    "net_diameter_mm" : 0.367,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.355,
+    "diameter_mm_div10" : 3.55,
+    "weight_g_per_m" : 0.8809,
+    "section_mm2" : 0.09892,
+    "linear_resistance_ohm_per_m" : 0.172763,
+    "max_current_amps" : 0.39568,
+    "net_diameter_mm" : 0.411,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.375,
+    "diameter_mm_div10" : 3.75,
+    "weight_g_per_m" : 0.983,
+    "section_mm2" : 0.11039,
+    "linear_resistance_ohm_per_m" : 0.154826,
+    "max_current_amps" : 0.44156,
+    "net_diameter_mm" : 0.435,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.4,
+    "diameter_mm_div10" : 4.0,
+    "weight_g_per_m" : 1.1184,
+    "section_mm2" : 0.1257,
+    "linear_resistance_ohm_per_m" : 0.136078,
+    "max_current_amps" : 0.5028,
+    "net_diameter_mm" : 0.459,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.45,
+    "diameter_mm_div10" : 4.5,
+    "weight_g_per_m" : 1.415,
+    "section_mm2" : 0.159,
+    "linear_resistance_ohm_per_m" : 0.107518,
+    "max_current_amps" : 0.636,
+    "net_diameter_mm" : 0.513,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.5,
+    "diameter_mm_div10" : 5.0,
+    "weight_g_per_m" : 1.783,
+    "section_mm2" : 0.1963,
+    "linear_resistance_ohm_per_m" : 0.08709,
+    "max_current_amps" : 0.7852,
+    "net_diameter_mm" : 0.566,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.56,
+    "diameter_mm_div10" : 5.6,
+    "weight_g_per_m" : 2.192,
+    "section_mm2" : 0.2461,
+    "linear_resistance_ohm_per_m" : 0.069427,
+    "max_current_amps" : 0.9844,
+    "net_diameter_mm" : 0.63,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.58,
+    "diameter_mm_div10" : 5.8,
+    "weight_g_per_m" : 2.349,
+    "section_mm2" : 0.264,
+    "linear_resistance_ohm_per_m" : 0.064722,
+    "max_current_amps" : 1.056,
+    "net_diameter_mm" : 0.651,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.6,
+    "diameter_mm_div10" : 6.0,
+    "weight_g_per_m" : 2.516,
+    "section_mm2" : 0.2827,
+    "linear_resistance_ohm_per_m" : 0.060479,
+    "max_current_amps" : 1.1308,
+    "net_diameter_mm" : 0.672,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.63,
+    "diameter_mm_div10" : 6.3,
+    "weight_g_per_m" : 2.774,
+    "section_mm2" : 0.3115,
+    "linear_resistance_ohm_per_m" : 0.054856,
+    "max_current_amps" : 1.246,
+    "net_diameter_mm" : 0.704,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.65,
+    "diameter_mm_div10" : 6.5,
+    "weight_g_per_m" : 2.95,
+    "section_mm2" : 0.3318,
+    "linear_resistance_ohm_per_m" : 0.051532,
+    "max_current_amps" : 1.3272,
+    "net_diameter_mm" : 0.725,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.67,
+    "diameter_mm_div10" : 6.7,
+    "weight_g_per_m" : 3.138,
+    "section_mm2" : 0.3524,
+    "linear_resistance_ohm_per_m" : 0.048502,
+    "max_current_amps" : 1.4096,
+    "net_diameter_mm" : 0.747,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.7,
+    "diameter_mm_div10" : 7.0,
+    "weight_g_per_m" : 3.496,
+    "section_mm2" : 0.3848,
+    "linear_resistance_ohm_per_m" : 0.044433,
+    "max_current_amps" : 1.5392,
+    "net_diameter_mm" : 0.778,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.71,
+    "diameter_mm_div10" : 7.1,
+    "weight_g_per_m" : 3.524,
+    "section_mm2" : 0.3957,
+    "linear_resistance_ohm_per_m" : 0.043191,
+    "max_current_amps" : 1.5828,
+    "net_diameter_mm" : 0.789,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.75,
+    "diameter_mm_div10" : 7.5,
+    "weight_g_per_m" : 3.928,
+    "section_mm2" : 0.4418,
+    "linear_resistance_ohm_per_m" : 0.038707,
+    "max_current_amps" : 1.7672,
+    "net_diameter_mm" : 0.831,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.8,
+    "diameter_mm_div10" : 8.0,
+    "weight_g_per_m" : 4.469,
+    "section_mm2" : 0.5027,
+    "linear_resistance_ohm_per_m" : 0.034019,
+    "max_current_amps" : 2.0108,
+    "net_diameter_mm" : 0.884,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.85,
+    "diameter_mm_div10" : 8.5,
+    "weight_g_per_m" : 5.045,
+    "section_mm2" : 0.5675,
+    "linear_resistance_ohm_per_m" : 0.030135,
+    "max_current_amps" : 2.27,
+    "net_diameter_mm" : 0.937,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.9,
+    "diameter_mm_div10" : 9.0,
+    "weight_g_per_m" : 5.656,
+    "section_mm2" : 0.6362,
+    "linear_resistance_ohm_per_m" : 0.02688,
+    "max_current_amps" : 2.5448,
+    "net_diameter_mm" : 0.989,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.95,
+    "diameter_mm_div10" : 9.5,
+    "weight_g_per_m" : 6.301,
+    "section_mm2" : 0.7088,
+    "linear_resistance_ohm_per_m" : 0.024125,
+    "max_current_amps" : 2.8352,
+    "net_diameter_mm" : 1.042,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.0,
+    "diameter_mm_div10" : 10.0,
+    "weight_g_per_m" : 6.982,
+    "section_mm2" : 0.7854,
+    "linear_resistance_ohm_per_m" : 0.021772,
+    "max_current_amps" : 3.1416,
+    "net_diameter_mm" : 1.094,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.05,
+    "diameter_mm_div10" : 10.5,
+    "weight_g_per_m" : 7.693,
+    "section_mm2" : 0.8664,
+    "linear_resistance_ohm_per_m" : 0.019748,
+    "max_current_amps" : 3.4656,
+    "net_diameter_mm" : 1.145,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.06,
+    "diameter_mm_div10" : 10.6,
+    "weight_g_per_m" : 7.845,
+    "section_mm2" : 0.882,
+    "linear_resistance_ohm_per_m" : 0.019377,
+    "max_current_amps" : 3.528,
+    "net_diameter_mm" : 1.156,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.12,
+    "diameter_mm_div10" : 11.2,
+    "weight_g_per_m" : 9.227,
+    "section_mm2" : 1.0382,
+    "linear_resistance_ohm_per_m" : 0.017357,
+    "max_current_amps" : 4.1528,
+    "net_diameter_mm" : 1.217,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.18,
+    "diameter_mm_div10" : 11.8,
+    "weight_g_per_m" : 9.722,
+    "section_mm2" : 1.093,
+    "linear_resistance_ohm_per_m" : 0.015637,
+    "max_current_amps" : 4.372,
+    "net_diameter_mm" : 1.278,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.2,
+    "diameter_mm_div10" : 12.0,
+    "weight_g_per_m" : 10.05,
+    "section_mm2" : 1.131,
+    "linear_resistance_ohm_per_m" : 0.01512,
+    "max_current_amps" : 4.524,
+    "net_diameter_mm" : 1.298,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.25,
+    "diameter_mm_div10" : 12.5,
+    "weight_g_per_m" : 10.9,
+    "section_mm2" : 1.227,
+    "linear_resistance_ohm_per_m" : 0.013934,
+    "max_current_amps" : 4.908,
+    "net_diameter_mm" : 1.349,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.3,
+    "diameter_mm_div10" : 13.0,
+    "weight_g_per_m" : 11.96,
+    "section_mm2" : 1.327,
+    "linear_resistance_ohm_per_m" : 0.012883,
+    "max_current_amps" : 5.308,
+    "net_diameter_mm" : 1.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.32,
+    "diameter_mm_div10" : 13.2,
+    "weight_g_per_m" : 12.16,
+    "section_mm2" : 1.367,
+    "linear_resistance_ohm_per_m" : 0.012496,
+    "max_current_amps" : 5.468,
+    "net_diameter_mm" : 1.43,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.4,
+    "diameter_mm_div10" : 14.0,
+    "weight_g_per_m" : 13.68,
+    "section_mm2" : 1.539,
+    "linear_resistance_ohm_per_m" : 0.011108,
+    "max_current_amps" : 6.156,
+    "net_diameter_mm" : 1.502,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.5,
+    "diameter_mm_div10" : 15.0,
+    "weight_g_per_m" : 15.79,
+    "section_mm2" : 1.767,
+    "linear_resistance_ohm_per_m" : 0.009677,
+    "max_current_amps" : 7.068,
+    "net_diameter_mm" : 1.6,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.6,
+    "diameter_mm_div10" : 16.0,
+    "weight_g_per_m" : 17.87,
+    "section_mm2" : 2.011,
+    "linear_resistance_ohm_per_m" : 0.008505,
+    "max_current_amps" : 8.044,
+    "net_diameter_mm" : 1.706,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.7,
+    "diameter_mm_div10" : 17.0,
+    "weight_g_per_m" : 20.18,
+    "section_mm2" : 2.27,
+    "linear_resistance_ohm_per_m" : 0.007534,
+    "max_current_amps" : 9.08,
+    "net_diameter_mm" : 1.8075,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.8,
+    "diameter_mm_div10" : 18.0,
+    "weight_g_per_m" : 22.62,
+    "section_mm2" : 2.545,
+    "linear_resistance_ohm_per_m" : 0.00672,
+    "max_current_amps" : 10.18,
+    "net_diameter_mm" : 1.909,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.9,
+    "diameter_mm_div10" : 19.0,
+    "weight_g_per_m" : 25.21,
+    "section_mm2" : 2.835,
+    "linear_resistance_ohm_per_m" : 0.006031,
+    "max_current_amps" : 11.34,
+    "net_diameter_mm" : 2.01,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.0,
+    "diameter_mm_div10" : 20.0,
+    "weight_g_per_m" : 27.93,
+    "section_mm2" : 3.142,
+    "linear_resistance_ohm_per_m" : 0.005443,
+    "max_current_amps" : 12.568,
+    "net_diameter_mm" : 2.112,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.1,
+    "diameter_mm_div10" : 21.0,
+    "weight_g_per_m" : 31.33,
+    "section_mm2" : 3.52,
+    "linear_resistance_ohm_per_m" : 0.004937,
+    "max_current_amps" : 14.08,
+    "net_diameter_mm" : 2.213,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.12,
+    "diameter_mm_div10" : 21.2,
+    "weight_g_per_m" : 31.38,
+    "section_mm2" : 3.528,
+    "linear_resistance_ohm_per_m" : 0.004844,
+    "max_current_amps" : 14.112,
+    "net_diameter_mm" : 2.234,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.2,
+    "diameter_mm_div10" : 22.0,
+    "weight_g_per_m" : 34.12,
+    "section_mm2" : 3.801,
+    "linear_resistance_ohm_per_m" : 0.004498,
+    "max_current_amps" : 15.204,
+    "net_diameter_mm" : 2.315,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.24,
+    "diameter_mm_div10" : 22.4,
+    "weight_g_per_m" : 35.03,
+    "section_mm2" : 3.938,
+    "linear_resistance_ohm_per_m" : 0.004339,
+    "max_current_amps" : 15.752,
+    "net_diameter_mm" : 2.355,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.36,
+    "diameter_mm_div10" : 23.6,
+    "weight_g_per_m" : 38.88,
+    "section_mm2" : 4.372,
+    "linear_resistance_ohm_per_m" : 0.003909,
+    "max_current_amps" : 17.488,
+    "net_diameter_mm" : 2.48,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.4,
+    "diameter_mm_div10" : 24.0,
+    "weight_g_per_m" : 40.59,
+    "section_mm2" : 4.524,
+    "linear_resistance_ohm_per_m" : 0.00378,
+    "max_current_amps" : 18.096,
+    "net_diameter_mm" : 2.515,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.5,
+    "diameter_mm_div10" : 25.0,
+    "weight_g_per_m" : 43.64,
+    "section_mm2" : 4.909,
+    "linear_resistance_ohm_per_m" : 0.003484,
+    "max_current_amps" : 19.636,
+    "net_diameter_mm" : 2.618,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.6,
+    "diameter_mm_div10" : 26.0,
+    "weight_g_per_m" : 47.6,
+    "section_mm2" : 5.309,
+    "linear_resistance_ohm_per_m" : 0.003221,
+    "max_current_amps" : 21.236,
+    "net_diameter_mm" : 2.72,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.65,
+    "diameter_mm_div10" : 26.5,
+    "weight_g_per_m" : 49.03,
+    "section_mm2" : 5.515,
+    "linear_resistance_ohm_per_m" : 0.0031,
+    "max_current_amps" : 22.06,
+    "net_diameter_mm" : 2.777,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.8,
+    "diameter_mm_div10" : 28.0,
+    "weight_g_per_m" : 54.74,
+    "section_mm2" : 6.158,
+    "linear_resistance_ohm_per_m" : 0.002777,
+    "max_current_amps" : 24.632,
+    "net_diameter_mm" : 2.922,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.0,
+    "diameter_mm_div10" : 30.0,
+    "weight_g_per_m" : 62.84,
+    "section_mm2" : 7.069,
+    "linear_resistance_ohm_per_m" : 0.002419,
+    "max_current_amps" : 28.276,
+    "net_diameter_mm" : 3.122,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.15,
+    "diameter_mm_div10" : 31.5,
+    "weight_g_per_m" : 65.28,
+    "section_mm2" : 7.789,
+    "linear_resistance_ohm_per_m" : 0.002194,
+    "max_current_amps" : 31.156,
+    "net_diameter_mm" : 3.276,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.35,
+    "diameter_mm_div10" : 33.5,
+    "weight_g_per_m" : 78.36,
+    "section_mm2" : 8.809,
+    "linear_resistance_ohm_per_m" : 0.00194,
+    "max_current_amps" : 35.236,
+    "net_diameter_mm" : 3.376,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.55,
+    "diameter_mm_div10" : 35.5,
+    "weight_g_per_m" : 87.99,
+    "section_mm2" : 9.892,
+    "linear_resistance_ohm_per_m" : 0.001728,
+    "max_current_amps" : 39.568,
+    "net_diameter_mm" : 3.679,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.75,
+    "diameter_mm_div10" : 37.5,
+    "weight_g_per_m" : 98.18,
+    "section_mm2" : 11.03,
+    "linear_resistance_ohm_per_m" : 0.001548,
+    "max_current_amps" : 44.12,
+    "net_diameter_mm" : 3.88,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.0,
+    "diameter_mm_div10" : 40.0,
+    "weight_g_per_m" : 111.7,
+    "section_mm2" : 12.57,
+    "linear_resistance_ohm_per_m" : 0.001361,
+    "max_current_amps" : 50.28,
+    "net_diameter_mm" : 4.133,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.25,
+    "diameter_mm_div10" : 42.5,
+    "weight_g_per_m" : 125.8,
+    "section_mm2" : 14.18626,
+    "linear_resistance_ohm_per_m" : 0.001205,
+    "max_current_amps" : 56.74504,
+    "net_diameter_mm" : 4.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.5,
+    "diameter_mm_div10" : 45.0,
+    "weight_g_per_m" : 141.329494,
+    "section_mm2" : 15.904313,
+    "linear_resistance_ohm_per_m" : 0.001075,
+    "max_current_amps" : 63.617251,
+    "net_diameter_mm" : 4.637,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 5.0,
+    "diameter_mm_div10" : 50.0,
+    "weight_g_per_m" : 174.480857,
+    "section_mm2" : 19.634954,
+    "linear_resistance_ohm_per_m" : 8.71E-4,
+    "max_current_amps" : 78.539816,
+    "net_diameter_mm" : 5.141,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 6.0,
+    "diameter_mm_div10" : 60.0,
+    "weight_g_per_m" : 251.252434,
+    "section_mm2" : 28.274334,
+    "linear_resistance_ohm_per_m" : 6.05E-4,
+    "max_current_amps" : 113.097336,
+    "net_diameter_mm" : 6.14,
+    "inStock" : true
+  } ],
+  "MILITARY" : [ {
+    "diameter_mm" : 0.02,
+    "diameter_mm_div10" : 0.2,
+    "weight_g_per_m" : 0.002796,
+    "section_mm2" : 3.14E-4,
+    "linear_resistance_ohm_per_m" : 54.431037,
+    "max_current_amps" : 7.85E-4,
+    "net_diameter_mm" : 0.027,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.025,
+    "diameter_mm_div10" : 0.25,
+    "weight_g_per_m" : 0.004369,
+    "section_mm2" : 4.9E-4,
+    "linear_resistance_ohm_per_m" : 34.835863,
+    "max_current_amps" : 0.001225,
+    "net_diameter_mm" : 0.034,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.03,
+    "diameter_mm_div10" : 0.3,
+    "weight_g_per_m" : 0.0063,
+    "section_mm2" : 7.07E-4,
+    "linear_resistance_ohm_per_m" : 24.191572,
+    "max_current_amps" : 0.001767,
+    "net_diameter_mm" : 0.039,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.032,
+    "diameter_mm_div10" : 0.32,
+    "weight_g_per_m" : 0.007158,
+    "section_mm2" : 8.04E-4,
+    "linear_resistance_ohm_per_m" : 21.262124,
+    "max_current_amps" : 0.00201,
+    "net_diameter_mm" : 0.043,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.036,
+    "diameter_mm_div10" : 0.36,
+    "weight_g_per_m" : 0.0086,
+    "section_mm2" : 9.62E-4,
+    "linear_resistance_ohm_per_m" : 16.799703,
+    "max_current_amps" : 0.002405,
+    "net_diameter_mm" : 0.049,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.04,
+    "diameter_mm_div10" : 0.4,
+    "weight_g_per_m" : 0.01118,
+    "section_mm2" : 0.001257,
+    "linear_resistance_ohm_per_m" : 13.607759,
+    "max_current_amps" : 0.003143,
+    "net_diameter_mm" : 0.054,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.05,
+    "diameter_mm_div10" : 0.5,
+    "weight_g_per_m" : 0.01747,
+    "section_mm2" : 0.001963,
+    "linear_resistance_ohm_per_m" : 8.708966,
+    "max_current_amps" : 0.004907,
+    "net_diameter_mm" : 0.066,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.063,
+    "diameter_mm_div10" : 0.63,
+    "weight_g_per_m" : 0.02774,
+    "section_mm2" : 0.003115,
+    "linear_resistance_ohm_per_m" : 5.485617,
+    "max_current_amps" : 0.007788,
+    "net_diameter_mm" : 0.083,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.071,
+    "diameter_mm_div10" : 0.71,
+    "weight_g_per_m" : 0.03524,
+    "section_mm2" : 0.003957,
+    "linear_resistance_ohm_per_m" : 4.319067,
+    "max_current_amps" : 0.009892,
+    "net_diameter_mm" : 0.091,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.08,
+    "diameter_mm_div10" : 0.8,
+    "weight_g_per_m" : 0.04474,
+    "section_mm2" : 0.005027,
+    "linear_resistance_ohm_per_m" : 3.40194,
+    "max_current_amps" : 0.012568,
+    "net_diameter_mm" : 0.101,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.09,
+    "diameter_mm_div10" : 0.9,
+    "weight_g_per_m" : 0.05662,
+    "section_mm2" : 0.006362,
+    "linear_resistance_ohm_per_m" : 2.687952,
+    "max_current_amps" : 0.015905,
+    "net_diameter_mm" : 0.113,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.1,
+    "diameter_mm_div10" : 1.0,
+    "weight_g_per_m" : 0.0699,
+    "section_mm2" : 0.007854,
+    "linear_resistance_ohm_per_m" : 2.177241,
+    "max_current_amps" : 0.019635,
+    "net_diameter_mm" : 0.125,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.15,
+    "diameter_mm_div10" : 1.5,
+    "weight_g_per_m" : 0.1573,
+    "section_mm2" : 0.017671,
+    "linear_resistance_ohm_per_m" : 0.967663,
+    "max_current_amps" : 0.044177,
+    "net_diameter_mm" : 0.182,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.2,
+    "diameter_mm_div10" : 2.0,
+    "weight_g_per_m" : 0.2796,
+    "section_mm2" : 0.03142,
+    "linear_resistance_ohm_per_m" : 0.54431,
+    "max_current_amps" : 0.07855,
+    "net_diameter_mm" : 0.239,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.224,
+    "diameter_mm_div10" : 2.24,
+    "weight_g_per_m" : 0.3507,
+    "section_mm2" : 0.03938,
+    "linear_resistance_ohm_per_m" : 0.433921,
+    "max_current_amps" : 0.09845,
+    "net_diameter_mm" : 0.266,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.25,
+    "diameter_mm_div10" : 2.5,
+    "weight_g_per_m" : 0.4369,
+    "section_mm2" : 0.04909,
+    "linear_resistance_ohm_per_m" : 0.348359,
+    "max_current_amps" : 0.122725,
+    "net_diameter_mm" : 0.297,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.28,
+    "diameter_mm_div10" : 2.8,
+    "weight_g_per_m" : 0.548,
+    "section_mm2" : 0.06158,
+    "linear_resistance_ohm_per_m" : 0.277709,
+    "max_current_amps" : 0.15395,
+    "net_diameter_mm" : 0.329,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.315,
+    "diameter_mm_div10" : 3.15,
+    "weight_g_per_m" : 0.6936,
+    "section_mm2" : 0.07789,
+    "linear_resistance_ohm_per_m" : 0.219425,
+    "max_current_amps" : 0.194725,
+    "net_diameter_mm" : 0.367,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.355,
+    "diameter_mm_div10" : 3.55,
+    "weight_g_per_m" : 0.8809,
+    "section_mm2" : 0.09892,
+    "linear_resistance_ohm_per_m" : 0.172763,
+    "max_current_amps" : 0.2473,
+    "net_diameter_mm" : 0.411,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.375,
+    "diameter_mm_div10" : 3.75,
+    "weight_g_per_m" : 0.983,
+    "section_mm2" : 0.11039,
+    "linear_resistance_ohm_per_m" : 0.154826,
+    "max_current_amps" : 0.275975,
+    "net_diameter_mm" : 0.435,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.4,
+    "diameter_mm_div10" : 4.0,
+    "weight_g_per_m" : 1.1184,
+    "section_mm2" : 0.1257,
+    "linear_resistance_ohm_per_m" : 0.136078,
+    "max_current_amps" : 0.31425,
+    "net_diameter_mm" : 0.459,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.45,
+    "diameter_mm_div10" : 4.5,
+    "weight_g_per_m" : 1.415,
+    "section_mm2" : 0.159,
+    "linear_resistance_ohm_per_m" : 0.107518,
+    "max_current_amps" : 0.3975,
+    "net_diameter_mm" : 0.513,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.5,
+    "diameter_mm_div10" : 5.0,
+    "weight_g_per_m" : 1.783,
+    "section_mm2" : 0.1963,
+    "linear_resistance_ohm_per_m" : 0.08709,
+    "max_current_amps" : 0.49075,
+    "net_diameter_mm" : 0.566,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.56,
+    "diameter_mm_div10" : 5.6,
+    "weight_g_per_m" : 2.192,
+    "section_mm2" : 0.2461,
+    "linear_resistance_ohm_per_m" : 0.069427,
+    "max_current_amps" : 0.61525,
+    "net_diameter_mm" : 0.63,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.58,
+    "diameter_mm_div10" : 5.8,
+    "weight_g_per_m" : 2.349,
+    "section_mm2" : 0.264,
+    "linear_resistance_ohm_per_m" : 0.064722,
+    "max_current_amps" : 0.66,
+    "net_diameter_mm" : 0.651,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.6,
+    "diameter_mm_div10" : 6.0,
+    "weight_g_per_m" : 2.516,
+    "section_mm2" : 0.2827,
+    "linear_resistance_ohm_per_m" : 0.060479,
+    "max_current_amps" : 0.70675,
+    "net_diameter_mm" : 0.672,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.63,
+    "diameter_mm_div10" : 6.3,
+    "weight_g_per_m" : 2.774,
+    "section_mm2" : 0.3115,
+    "linear_resistance_ohm_per_m" : 0.054856,
+    "max_current_amps" : 0.77875,
+    "net_diameter_mm" : 0.704,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.65,
+    "diameter_mm_div10" : 6.5,
+    "weight_g_per_m" : 2.95,
+    "section_mm2" : 0.3318,
+    "linear_resistance_ohm_per_m" : 0.051532,
+    "max_current_amps" : 0.8295,
+    "net_diameter_mm" : 0.725,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.67,
+    "diameter_mm_div10" : 6.7,
+    "weight_g_per_m" : 3.138,
+    "section_mm2" : 0.3524,
+    "linear_resistance_ohm_per_m" : 0.048502,
+    "max_current_amps" : 0.881,
+    "net_diameter_mm" : 0.747,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.7,
+    "diameter_mm_div10" : 7.0,
+    "weight_g_per_m" : 3.496,
+    "section_mm2" : 0.3848,
+    "linear_resistance_ohm_per_m" : 0.044433,
+    "max_current_amps" : 0.962,
+    "net_diameter_mm" : 0.778,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.71,
+    "diameter_mm_div10" : 7.1,
+    "weight_g_per_m" : 3.524,
+    "section_mm2" : 0.3957,
+    "linear_resistance_ohm_per_m" : 0.043191,
+    "max_current_amps" : 0.98925,
+    "net_diameter_mm" : 0.789,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.75,
+    "diameter_mm_div10" : 7.5,
+    "weight_g_per_m" : 3.928,
+    "section_mm2" : 0.4418,
+    "linear_resistance_ohm_per_m" : 0.038707,
+    "max_current_amps" : 1.1045,
+    "net_diameter_mm" : 0.831,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.8,
+    "diameter_mm_div10" : 8.0,
+    "weight_g_per_m" : 4.469,
+    "section_mm2" : 0.5027,
+    "linear_resistance_ohm_per_m" : 0.034019,
+    "max_current_amps" : 1.25675,
+    "net_diameter_mm" : 0.884,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.85,
+    "diameter_mm_div10" : 8.5,
+    "weight_g_per_m" : 5.045,
+    "section_mm2" : 0.5675,
+    "linear_resistance_ohm_per_m" : 0.030135,
+    "max_current_amps" : 1.41875,
+    "net_diameter_mm" : 0.937,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.9,
+    "diameter_mm_div10" : 9.0,
+    "weight_g_per_m" : 5.656,
+    "section_mm2" : 0.6362,
+    "linear_resistance_ohm_per_m" : 0.02688,
+    "max_current_amps" : 1.5905,
+    "net_diameter_mm" : 0.989,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.95,
+    "diameter_mm_div10" : 9.5,
+    "weight_g_per_m" : 6.301,
+    "section_mm2" : 0.7088,
+    "linear_resistance_ohm_per_m" : 0.024125,
+    "max_current_amps" : 1.772,
+    "net_diameter_mm" : 1.042,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.0,
+    "diameter_mm_div10" : 10.0,
+    "weight_g_per_m" : 6.982,
+    "section_mm2" : 0.7854,
+    "linear_resistance_ohm_per_m" : 0.021772,
+    "max_current_amps" : 1.9635,
+    "net_diameter_mm" : 1.094,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.05,
+    "diameter_mm_div10" : 10.5,
+    "weight_g_per_m" : 7.693,
+    "section_mm2" : 0.8664,
+    "linear_resistance_ohm_per_m" : 0.019748,
+    "max_current_amps" : 2.166,
+    "net_diameter_mm" : 1.145,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.06,
+    "diameter_mm_div10" : 10.6,
+    "weight_g_per_m" : 7.845,
+    "section_mm2" : 0.882,
+    "linear_resistance_ohm_per_m" : 0.019377,
+    "max_current_amps" : 2.205,
+    "net_diameter_mm" : 1.156,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.12,
+    "diameter_mm_div10" : 11.2,
+    "weight_g_per_m" : 9.227,
+    "section_mm2" : 1.0382,
+    "linear_resistance_ohm_per_m" : 0.017357,
+    "max_current_amps" : 2.5955,
+    "net_diameter_mm" : 1.217,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.18,
+    "diameter_mm_div10" : 11.8,
+    "weight_g_per_m" : 9.722,
+    "section_mm2" : 1.093,
+    "linear_resistance_ohm_per_m" : 0.015637,
+    "max_current_amps" : 2.7325,
+    "net_diameter_mm" : 1.278,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.2,
+    "diameter_mm_div10" : 12.0,
+    "weight_g_per_m" : 10.05,
+    "section_mm2" : 1.131,
+    "linear_resistance_ohm_per_m" : 0.01512,
+    "max_current_amps" : 2.8275,
+    "net_diameter_mm" : 1.298,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.25,
+    "diameter_mm_div10" : 12.5,
+    "weight_g_per_m" : 10.9,
+    "section_mm2" : 1.227,
+    "linear_resistance_ohm_per_m" : 0.013934,
+    "max_current_amps" : 3.0675,
+    "net_diameter_mm" : 1.349,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.3,
+    "diameter_mm_div10" : 13.0,
+    "weight_g_per_m" : 11.96,
+    "section_mm2" : 1.327,
+    "linear_resistance_ohm_per_m" : 0.012883,
+    "max_current_amps" : 3.3175,
+    "net_diameter_mm" : 1.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.32,
+    "diameter_mm_div10" : 13.2,
+    "weight_g_per_m" : 12.16,
+    "section_mm2" : 1.367,
+    "linear_resistance_ohm_per_m" : 0.012496,
+    "max_current_amps" : 3.4175,
+    "net_diameter_mm" : 1.43,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.4,
+    "diameter_mm_div10" : 14.0,
+    "weight_g_per_m" : 13.68,
+    "section_mm2" : 1.539,
+    "linear_resistance_ohm_per_m" : 0.011108,
+    "max_current_amps" : 3.8475,
+    "net_diameter_mm" : 1.502,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.5,
+    "diameter_mm_div10" : 15.0,
+    "weight_g_per_m" : 15.79,
+    "section_mm2" : 1.767,
+    "linear_resistance_ohm_per_m" : 0.009677,
+    "max_current_amps" : 4.4175,
+    "net_diameter_mm" : 1.6,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.6,
+    "diameter_mm_div10" : 16.0,
+    "weight_g_per_m" : 17.87,
+    "section_mm2" : 2.011,
+    "linear_resistance_ohm_per_m" : 0.008505,
+    "max_current_amps" : 5.0275,
+    "net_diameter_mm" : 1.706,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.7,
+    "diameter_mm_div10" : 17.0,
+    "weight_g_per_m" : 20.18,
+    "section_mm2" : 2.27,
+    "linear_resistance_ohm_per_m" : 0.007534,
+    "max_current_amps" : 5.675,
+    "net_diameter_mm" : 1.8075,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.8,
+    "diameter_mm_div10" : 18.0,
+    "weight_g_per_m" : 22.62,
+    "section_mm2" : 2.545,
+    "linear_resistance_ohm_per_m" : 0.00672,
+    "max_current_amps" : 6.3625,
+    "net_diameter_mm" : 1.909,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.9,
+    "diameter_mm_div10" : 19.0,
+    "weight_g_per_m" : 25.21,
+    "section_mm2" : 2.835,
+    "linear_resistance_ohm_per_m" : 0.006031,
+    "max_current_amps" : 7.0875,
+    "net_diameter_mm" : 2.01,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.0,
+    "diameter_mm_div10" : 20.0,
+    "weight_g_per_m" : 27.93,
+    "section_mm2" : 3.142,
+    "linear_resistance_ohm_per_m" : 0.005443,
+    "max_current_amps" : 7.855,
+    "net_diameter_mm" : 2.112,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.1,
+    "diameter_mm_div10" : 21.0,
+    "weight_g_per_m" : 31.33,
+    "section_mm2" : 3.52,
+    "linear_resistance_ohm_per_m" : 0.004937,
+    "max_current_amps" : 8.8,
+    "net_diameter_mm" : 2.213,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.12,
+    "diameter_mm_div10" : 21.2,
+    "weight_g_per_m" : 31.38,
+    "section_mm2" : 3.528,
+    "linear_resistance_ohm_per_m" : 0.004844,
+    "max_current_amps" : 8.82,
+    "net_diameter_mm" : 2.234,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.2,
+    "diameter_mm_div10" : 22.0,
+    "weight_g_per_m" : 34.12,
+    "section_mm2" : 3.801,
+    "linear_resistance_ohm_per_m" : 0.004498,
+    "max_current_amps" : 9.5025,
+    "net_diameter_mm" : 2.315,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.24,
+    "diameter_mm_div10" : 22.4,
+    "weight_g_per_m" : 35.03,
+    "section_mm2" : 3.938,
+    "linear_resistance_ohm_per_m" : 0.004339,
+    "max_current_amps" : 9.845,
+    "net_diameter_mm" : 2.355,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.36,
+    "diameter_mm_div10" : 23.6,
+    "weight_g_per_m" : 38.88,
+    "section_mm2" : 4.372,
+    "linear_resistance_ohm_per_m" : 0.003909,
+    "max_current_amps" : 10.93,
+    "net_diameter_mm" : 2.48,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.4,
+    "diameter_mm_div10" : 24.0,
+    "weight_g_per_m" : 40.59,
+    "section_mm2" : 4.524,
+    "linear_resistance_ohm_per_m" : 0.00378,
+    "max_current_amps" : 11.31,
+    "net_diameter_mm" : 2.515,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.5,
+    "diameter_mm_div10" : 25.0,
+    "weight_g_per_m" : 43.64,
+    "section_mm2" : 4.909,
+    "linear_resistance_ohm_per_m" : 0.003484,
+    "max_current_amps" : 12.2725,
+    "net_diameter_mm" : 2.618,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.6,
+    "diameter_mm_div10" : 26.0,
+    "weight_g_per_m" : 47.6,
+    "section_mm2" : 5.309,
+    "linear_resistance_ohm_per_m" : 0.003221,
+    "max_current_amps" : 13.2725,
+    "net_diameter_mm" : 2.72,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.65,
+    "diameter_mm_div10" : 26.5,
+    "weight_g_per_m" : 49.03,
+    "section_mm2" : 5.515,
+    "linear_resistance_ohm_per_m" : 0.0031,
+    "max_current_amps" : 13.7875,
+    "net_diameter_mm" : 2.777,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.8,
+    "diameter_mm_div10" : 28.0,
+    "weight_g_per_m" : 54.74,
+    "section_mm2" : 6.158,
+    "linear_resistance_ohm_per_m" : 0.002777,
+    "max_current_amps" : 15.395,
+    "net_diameter_mm" : 2.922,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.0,
+    "diameter_mm_div10" : 30.0,
+    "weight_g_per_m" : 62.84,
+    "section_mm2" : 7.069,
+    "linear_resistance_ohm_per_m" : 0.002419,
+    "max_current_amps" : 17.6725,
+    "net_diameter_mm" : 3.122,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.15,
+    "diameter_mm_div10" : 31.5,
+    "weight_g_per_m" : 65.28,
+    "section_mm2" : 7.789,
+    "linear_resistance_ohm_per_m" : 0.002194,
+    "max_current_amps" : 19.4725,
+    "net_diameter_mm" : 3.276,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.35,
+    "diameter_mm_div10" : 33.5,
+    "weight_g_per_m" : 78.36,
+    "section_mm2" : 8.809,
+    "linear_resistance_ohm_per_m" : 0.00194,
+    "max_current_amps" : 22.0225,
+    "net_diameter_mm" : 3.376,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.55,
+    "diameter_mm_div10" : 35.5,
+    "weight_g_per_m" : 87.99,
+    "section_mm2" : 9.892,
+    "linear_resistance_ohm_per_m" : 0.001728,
+    "max_current_amps" : 24.73,
+    "net_diameter_mm" : 3.679,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.75,
+    "diameter_mm_div10" : 37.5,
+    "weight_g_per_m" : 98.18,
+    "section_mm2" : 11.03,
+    "linear_resistance_ohm_per_m" : 0.001548,
+    "max_current_amps" : 27.575,
+    "net_diameter_mm" : 3.88,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.0,
+    "diameter_mm_div10" : 40.0,
+    "weight_g_per_m" : 111.7,
+    "section_mm2" : 12.57,
+    "linear_resistance_ohm_per_m" : 0.001361,
+    "max_current_amps" : 31.425,
+    "net_diameter_mm" : 4.133,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.25,
+    "diameter_mm_div10" : 42.5,
+    "weight_g_per_m" : 125.8,
+    "section_mm2" : 14.18626,
+    "linear_resistance_ohm_per_m" : 0.001205,
+    "max_current_amps" : 35.46565,
+    "net_diameter_mm" : 4.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.5,
+    "diameter_mm_div10" : 45.0,
+    "weight_g_per_m" : 141.329494,
+    "section_mm2" : 15.904313,
+    "linear_resistance_ohm_per_m" : 0.001075,
+    "max_current_amps" : 39.760782,
+    "net_diameter_mm" : 4.637,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 5.0,
+    "diameter_mm_div10" : 50.0,
+    "weight_g_per_m" : 174.480857,
+    "section_mm2" : 19.634954,
+    "linear_resistance_ohm_per_m" : 8.71E-4,
+    "max_current_amps" : 49.087385,
+    "net_diameter_mm" : 5.141,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 6.0,
+    "diameter_mm_div10" : 60.0,
+    "weight_g_per_m" : 251.252434,
+    "section_mm2" : 28.274334,
+    "linear_resistance_ohm_per_m" : 6.05E-4,
+    "max_current_amps" : 70.685835,
+    "net_diameter_mm" : 6.14,
+    "inStock" : true
+  } ],
+  "INDUSTRIAL" : [ {
+    "diameter_mm" : 0.02,
+    "diameter_mm_div10" : 0.2,
+    "weight_g_per_m" : 0.002796,
+    "section_mm2" : 3.14E-4,
+    "linear_resistance_ohm_per_m" : 54.431037,
+    "max_current_amps" : 9.42E-4,
+    "net_diameter_mm" : 0.027,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.025,
+    "diameter_mm_div10" : 0.25,
+    "weight_g_per_m" : 0.004369,
+    "section_mm2" : 4.9E-4,
+    "linear_resistance_ohm_per_m" : 34.835863,
+    "max_current_amps" : 0.00147,
+    "net_diameter_mm" : 0.034,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.03,
+    "diameter_mm_div10" : 0.3,
+    "weight_g_per_m" : 0.0063,
+    "section_mm2" : 7.07E-4,
+    "linear_resistance_ohm_per_m" : 24.191572,
+    "max_current_amps" : 0.002121,
+    "net_diameter_mm" : 0.039,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.032,
+    "diameter_mm_div10" : 0.32,
+    "weight_g_per_m" : 0.007158,
+    "section_mm2" : 8.04E-4,
+    "linear_resistance_ohm_per_m" : 21.262124,
+    "max_current_amps" : 0.002412,
+    "net_diameter_mm" : 0.043,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.036,
+    "diameter_mm_div10" : 0.36,
+    "weight_g_per_m" : 0.0086,
+    "section_mm2" : 9.62E-4,
+    "linear_resistance_ohm_per_m" : 16.799703,
+    "max_current_amps" : 0.002886,
+    "net_diameter_mm" : 0.049,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.04,
+    "diameter_mm_div10" : 0.4,
+    "weight_g_per_m" : 0.01118,
+    "section_mm2" : 0.001257,
+    "linear_resistance_ohm_per_m" : 13.607759,
+    "max_current_amps" : 0.003771,
+    "net_diameter_mm" : 0.054,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.05,
+    "diameter_mm_div10" : 0.5,
+    "weight_g_per_m" : 0.01747,
+    "section_mm2" : 0.001963,
+    "linear_resistance_ohm_per_m" : 8.708966,
+    "max_current_amps" : 0.005889,
+    "net_diameter_mm" : 0.066,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.063,
+    "diameter_mm_div10" : 0.63,
+    "weight_g_per_m" : 0.02774,
+    "section_mm2" : 0.003115,
+    "linear_resistance_ohm_per_m" : 5.485617,
+    "max_current_amps" : 0.009345,
+    "net_diameter_mm" : 0.083,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.071,
+    "diameter_mm_div10" : 0.71,
+    "weight_g_per_m" : 0.03524,
+    "section_mm2" : 0.003957,
+    "linear_resistance_ohm_per_m" : 4.319067,
+    "max_current_amps" : 0.011871,
+    "net_diameter_mm" : 0.091,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.08,
+    "diameter_mm_div10" : 0.8,
+    "weight_g_per_m" : 0.04474,
+    "section_mm2" : 0.005027,
+    "linear_resistance_ohm_per_m" : 3.40194,
+    "max_current_amps" : 0.015081,
+    "net_diameter_mm" : 0.101,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.09,
+    "diameter_mm_div10" : 0.9,
+    "weight_g_per_m" : 0.05662,
+    "section_mm2" : 0.006362,
+    "linear_resistance_ohm_per_m" : 2.687952,
+    "max_current_amps" : 0.019086,
+    "net_diameter_mm" : 0.113,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.1,
+    "diameter_mm_div10" : 1.0,
+    "weight_g_per_m" : 0.0699,
+    "section_mm2" : 0.007854,
+    "linear_resistance_ohm_per_m" : 2.177241,
+    "max_current_amps" : 0.023562,
+    "net_diameter_mm" : 0.125,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.15,
+    "diameter_mm_div10" : 1.5,
+    "weight_g_per_m" : 0.1573,
+    "section_mm2" : 0.017671,
+    "linear_resistance_ohm_per_m" : 0.967663,
+    "max_current_amps" : 0.053013,
+    "net_diameter_mm" : 0.182,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.2,
+    "diameter_mm_div10" : 2.0,
+    "weight_g_per_m" : 0.2796,
+    "section_mm2" : 0.03142,
+    "linear_resistance_ohm_per_m" : 0.54431,
+    "max_current_amps" : 0.09426,
+    "net_diameter_mm" : 0.239,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.224,
+    "diameter_mm_div10" : 2.24,
+    "weight_g_per_m" : 0.3507,
+    "section_mm2" : 0.03938,
+    "linear_resistance_ohm_per_m" : 0.433921,
+    "max_current_amps" : 0.11814,
+    "net_diameter_mm" : 0.266,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.25,
+    "diameter_mm_div10" : 2.5,
+    "weight_g_per_m" : 0.4369,
+    "section_mm2" : 0.04909,
+    "linear_resistance_ohm_per_m" : 0.348359,
+    "max_current_amps" : 0.14727,
+    "net_diameter_mm" : 0.297,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.28,
+    "diameter_mm_div10" : 2.8,
+    "weight_g_per_m" : 0.548,
+    "section_mm2" : 0.06158,
+    "linear_resistance_ohm_per_m" : 0.277709,
+    "max_current_amps" : 0.18474,
+    "net_diameter_mm" : 0.329,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.315,
+    "diameter_mm_div10" : 3.15,
+    "weight_g_per_m" : 0.6936,
+    "section_mm2" : 0.07789,
+    "linear_resistance_ohm_per_m" : 0.219425,
+    "max_current_amps" : 0.23367,
+    "net_diameter_mm" : 0.367,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.355,
+    "diameter_mm_div10" : 3.55,
+    "weight_g_per_m" : 0.8809,
+    "section_mm2" : 0.09892,
+    "linear_resistance_ohm_per_m" : 0.172763,
+    "max_current_amps" : 0.29676,
+    "net_diameter_mm" : 0.411,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.375,
+    "diameter_mm_div10" : 3.75,
+    "weight_g_per_m" : 0.983,
+    "section_mm2" : 0.11039,
+    "linear_resistance_ohm_per_m" : 0.154826,
+    "max_current_amps" : 0.33117,
+    "net_diameter_mm" : 0.435,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.4,
+    "diameter_mm_div10" : 4.0,
+    "weight_g_per_m" : 1.1184,
+    "section_mm2" : 0.1257,
+    "linear_resistance_ohm_per_m" : 0.136078,
+    "max_current_amps" : 0.3771,
+    "net_diameter_mm" : 0.459,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.45,
+    "diameter_mm_div10" : 4.5,
+    "weight_g_per_m" : 1.415,
+    "section_mm2" : 0.159,
+    "linear_resistance_ohm_per_m" : 0.107518,
+    "max_current_amps" : 0.477,
+    "net_diameter_mm" : 0.513,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.5,
+    "diameter_mm_div10" : 5.0,
+    "weight_g_per_m" : 1.783,
+    "section_mm2" : 0.1963,
+    "linear_resistance_ohm_per_m" : 0.08709,
+    "max_current_amps" : 0.5889,
+    "net_diameter_mm" : 0.566,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.56,
+    "diameter_mm_div10" : 5.6,
+    "weight_g_per_m" : 2.192,
+    "section_mm2" : 0.2461,
+    "linear_resistance_ohm_per_m" : 0.069427,
+    "max_current_amps" : 0.7383,
+    "net_diameter_mm" : 0.63,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.58,
+    "diameter_mm_div10" : 5.8,
+    "weight_g_per_m" : 2.349,
+    "section_mm2" : 0.264,
+    "linear_resistance_ohm_per_m" : 0.064722,
+    "max_current_amps" : 0.792,
+    "net_diameter_mm" : 0.651,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.6,
+    "diameter_mm_div10" : 6.0,
+    "weight_g_per_m" : 2.516,
+    "section_mm2" : 0.2827,
+    "linear_resistance_ohm_per_m" : 0.060479,
+    "max_current_amps" : 0.8481,
+    "net_diameter_mm" : 0.672,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.63,
+    "diameter_mm_div10" : 6.3,
+    "weight_g_per_m" : 2.774,
+    "section_mm2" : 0.3115,
+    "linear_resistance_ohm_per_m" : 0.054856,
+    "max_current_amps" : 0.9345,
+    "net_diameter_mm" : 0.704,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.65,
+    "diameter_mm_div10" : 6.5,
+    "weight_g_per_m" : 2.95,
+    "section_mm2" : 0.3318,
+    "linear_resistance_ohm_per_m" : 0.051532,
+    "max_current_amps" : 0.9954,
+    "net_diameter_mm" : 0.725,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.67,
+    "diameter_mm_div10" : 6.7,
+    "weight_g_per_m" : 3.138,
+    "section_mm2" : 0.3524,
+    "linear_resistance_ohm_per_m" : 0.048502,
+    "max_current_amps" : 1.0572,
+    "net_diameter_mm" : 0.747,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.7,
+    "diameter_mm_div10" : 7.0,
+    "weight_g_per_m" : 3.496,
+    "section_mm2" : 0.3848,
+    "linear_resistance_ohm_per_m" : 0.044433,
+    "max_current_amps" : 1.1544,
+    "net_diameter_mm" : 0.778,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.71,
+    "diameter_mm_div10" : 7.1,
+    "weight_g_per_m" : 3.524,
+    "section_mm2" : 0.3957,
+    "linear_resistance_ohm_per_m" : 0.043191,
+    "max_current_amps" : 1.1871,
+    "net_diameter_mm" : 0.789,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.75,
+    "diameter_mm_div10" : 7.5,
+    "weight_g_per_m" : 3.928,
+    "section_mm2" : 0.4418,
+    "linear_resistance_ohm_per_m" : 0.038707,
+    "max_current_amps" : 1.3254,
+    "net_diameter_mm" : 0.831,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.8,
+    "diameter_mm_div10" : 8.0,
+    "weight_g_per_m" : 4.469,
+    "section_mm2" : 0.5027,
+    "linear_resistance_ohm_per_m" : 0.034019,
+    "max_current_amps" : 1.5081,
+    "net_diameter_mm" : 0.884,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.85,
+    "diameter_mm_div10" : 8.5,
+    "weight_g_per_m" : 5.045,
+    "section_mm2" : 0.5675,
+    "linear_resistance_ohm_per_m" : 0.030135,
+    "max_current_amps" : 1.7025,
+    "net_diameter_mm" : 0.937,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.9,
+    "diameter_mm_div10" : 9.0,
+    "weight_g_per_m" : 5.656,
+    "section_mm2" : 0.6362,
+    "linear_resistance_ohm_per_m" : 0.02688,
+    "max_current_amps" : 1.9086,
+    "net_diameter_mm" : 0.989,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.95,
+    "diameter_mm_div10" : 9.5,
+    "weight_g_per_m" : 6.301,
+    "section_mm2" : 0.7088,
+    "linear_resistance_ohm_per_m" : 0.024125,
+    "max_current_amps" : 2.1264,
+    "net_diameter_mm" : 1.042,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.0,
+    "diameter_mm_div10" : 10.0,
+    "weight_g_per_m" : 6.982,
+    "section_mm2" : 0.7854,
+    "linear_resistance_ohm_per_m" : 0.021772,
+    "max_current_amps" : 2.3562,
+    "net_diameter_mm" : 1.094,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.05,
+    "diameter_mm_div10" : 10.5,
+    "weight_g_per_m" : 7.693,
+    "section_mm2" : 0.8664,
+    "linear_resistance_ohm_per_m" : 0.019748,
+    "max_current_amps" : 2.5992,
+    "net_diameter_mm" : 1.145,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.06,
+    "diameter_mm_div10" : 10.6,
+    "weight_g_per_m" : 7.845,
+    "section_mm2" : 0.882,
+    "linear_resistance_ohm_per_m" : 0.019377,
+    "max_current_amps" : 2.646,
+    "net_diameter_mm" : 1.156,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.12,
+    "diameter_mm_div10" : 11.2,
+    "weight_g_per_m" : 9.227,
+    "section_mm2" : 1.0382,
+    "linear_resistance_ohm_per_m" : 0.017357,
+    "max_current_amps" : 3.1146,
+    "net_diameter_mm" : 1.217,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.18,
+    "diameter_mm_div10" : 11.8,
+    "weight_g_per_m" : 9.722,
+    "section_mm2" : 1.093,
+    "linear_resistance_ohm_per_m" : 0.015637,
+    "max_current_amps" : 3.279,
+    "net_diameter_mm" : 1.278,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.2,
+    "diameter_mm_div10" : 12.0,
+    "weight_g_per_m" : 10.05,
+    "section_mm2" : 1.131,
+    "linear_resistance_ohm_per_m" : 0.01512,
+    "max_current_amps" : 3.393,
+    "net_diameter_mm" : 1.298,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.25,
+    "diameter_mm_div10" : 12.5,
+    "weight_g_per_m" : 10.9,
+    "section_mm2" : 1.227,
+    "linear_resistance_ohm_per_m" : 0.013934,
+    "max_current_amps" : 3.681,
+    "net_diameter_mm" : 1.349,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.3,
+    "diameter_mm_div10" : 13.0,
+    "weight_g_per_m" : 11.96,
+    "section_mm2" : 1.327,
+    "linear_resistance_ohm_per_m" : 0.012883,
+    "max_current_amps" : 3.981,
+    "net_diameter_mm" : 1.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.32,
+    "diameter_mm_div10" : 13.2,
+    "weight_g_per_m" : 12.16,
+    "section_mm2" : 1.367,
+    "linear_resistance_ohm_per_m" : 0.012496,
+    "max_current_amps" : 4.101,
+    "net_diameter_mm" : 1.43,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.4,
+    "diameter_mm_div10" : 14.0,
+    "weight_g_per_m" : 13.68,
+    "section_mm2" : 1.539,
+    "linear_resistance_ohm_per_m" : 0.011108,
+    "max_current_amps" : 4.617,
+    "net_diameter_mm" : 1.502,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.5,
+    "diameter_mm_div10" : 15.0,
+    "weight_g_per_m" : 15.79,
+    "section_mm2" : 1.767,
+    "linear_resistance_ohm_per_m" : 0.009677,
+    "max_current_amps" : 5.301,
+    "net_diameter_mm" : 1.6,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.6,
+    "diameter_mm_div10" : 16.0,
+    "weight_g_per_m" : 17.87,
+    "section_mm2" : 2.011,
+    "linear_resistance_ohm_per_m" : 0.008505,
+    "max_current_amps" : 6.033,
+    "net_diameter_mm" : 1.706,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.7,
+    "diameter_mm_div10" : 17.0,
+    "weight_g_per_m" : 20.18,
+    "section_mm2" : 2.27,
+    "linear_resistance_ohm_per_m" : 0.007534,
+    "max_current_amps" : 6.81,
+    "net_diameter_mm" : 1.8075,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.8,
+    "diameter_mm_div10" : 18.0,
+    "weight_g_per_m" : 22.62,
+    "section_mm2" : 2.545,
+    "linear_resistance_ohm_per_m" : 0.00672,
+    "max_current_amps" : 7.635,
+    "net_diameter_mm" : 1.909,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.9,
+    "diameter_mm_div10" : 19.0,
+    "weight_g_per_m" : 25.21,
+    "section_mm2" : 2.835,
+    "linear_resistance_ohm_per_m" : 0.006031,
+    "max_current_amps" : 8.505,
+    "net_diameter_mm" : 2.01,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.0,
+    "diameter_mm_div10" : 20.0,
+    "weight_g_per_m" : 27.93,
+    "section_mm2" : 3.142,
+    "linear_resistance_ohm_per_m" : 0.005443,
+    "max_current_amps" : 9.426,
+    "net_diameter_mm" : 2.112,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.1,
+    "diameter_mm_div10" : 21.0,
+    "weight_g_per_m" : 31.33,
+    "section_mm2" : 3.52,
+    "linear_resistance_ohm_per_m" : 0.004937,
+    "max_current_amps" : 10.56,
+    "net_diameter_mm" : 2.213,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.12,
+    "diameter_mm_div10" : 21.2,
+    "weight_g_per_m" : 31.38,
+    "section_mm2" : 3.528,
+    "linear_resistance_ohm_per_m" : 0.004844,
+    "max_current_amps" : 10.584,
+    "net_diameter_mm" : 2.234,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.2,
+    "diameter_mm_div10" : 22.0,
+    "weight_g_per_m" : 34.12,
+    "section_mm2" : 3.801,
+    "linear_resistance_ohm_per_m" : 0.004498,
+    "max_current_amps" : 11.403,
+    "net_diameter_mm" : 2.315,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.24,
+    "diameter_mm_div10" : 22.4,
+    "weight_g_per_m" : 35.03,
+    "section_mm2" : 3.938,
+    "linear_resistance_ohm_per_m" : 0.004339,
+    "max_current_amps" : 11.814,
+    "net_diameter_mm" : 2.355,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.36,
+    "diameter_mm_div10" : 23.6,
+    "weight_g_per_m" : 38.88,
+    "section_mm2" : 4.372,
+    "linear_resistance_ohm_per_m" : 0.003909,
+    "max_current_amps" : 13.116,
+    "net_diameter_mm" : 2.48,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.4,
+    "diameter_mm_div10" : 24.0,
+    "weight_g_per_m" : 40.59,
+    "section_mm2" : 4.524,
+    "linear_resistance_ohm_per_m" : 0.00378,
+    "max_current_amps" : 13.572,
+    "net_diameter_mm" : 2.515,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.5,
+    "diameter_mm_div10" : 25.0,
+    "weight_g_per_m" : 43.64,
+    "section_mm2" : 4.909,
+    "linear_resistance_ohm_per_m" : 0.003484,
+    "max_current_amps" : 14.727,
+    "net_diameter_mm" : 2.618,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.6,
+    "diameter_mm_div10" : 26.0,
+    "weight_g_per_m" : 47.6,
+    "section_mm2" : 5.309,
+    "linear_resistance_ohm_per_m" : 0.003221,
+    "max_current_amps" : 15.927,
+    "net_diameter_mm" : 2.72,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.65,
+    "diameter_mm_div10" : 26.5,
+    "weight_g_per_m" : 49.03,
+    "section_mm2" : 5.515,
+    "linear_resistance_ohm_per_m" : 0.0031,
+    "max_current_amps" : 16.545,
+    "net_diameter_mm" : 2.777,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.8,
+    "diameter_mm_div10" : 28.0,
+    "weight_g_per_m" : 54.74,
+    "section_mm2" : 6.158,
+    "linear_resistance_ohm_per_m" : 0.002777,
+    "max_current_amps" : 18.474,
+    "net_diameter_mm" : 2.922,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.0,
+    "diameter_mm_div10" : 30.0,
+    "weight_g_per_m" : 62.84,
+    "section_mm2" : 7.069,
+    "linear_resistance_ohm_per_m" : 0.002419,
+    "max_current_amps" : 21.207,
+    "net_diameter_mm" : 3.122,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.15,
+    "diameter_mm_div10" : 31.5,
+    "weight_g_per_m" : 65.28,
+    "section_mm2" : 7.789,
+    "linear_resistance_ohm_per_m" : 0.002194,
+    "max_current_amps" : 23.367,
+    "net_diameter_mm" : 3.276,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.35,
+    "diameter_mm_div10" : 33.5,
+    "weight_g_per_m" : 78.36,
+    "section_mm2" : 8.809,
+    "linear_resistance_ohm_per_m" : 0.00194,
+    "max_current_amps" : 26.427,
+    "net_diameter_mm" : 3.376,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.55,
+    "diameter_mm_div10" : 35.5,
+    "weight_g_per_m" : 87.99,
+    "section_mm2" : 9.892,
+    "linear_resistance_ohm_per_m" : 0.001728,
+    "max_current_amps" : 29.676,
+    "net_diameter_mm" : 3.679,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.75,
+    "diameter_mm_div10" : 37.5,
+    "weight_g_per_m" : 98.18,
+    "section_mm2" : 11.03,
+    "linear_resistance_ohm_per_m" : 0.001548,
+    "max_current_amps" : 33.09,
+    "net_diameter_mm" : 3.88,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.0,
+    "diameter_mm_div10" : 40.0,
+    "weight_g_per_m" : 111.7,
+    "section_mm2" : 12.57,
+    "linear_resistance_ohm_per_m" : 0.001361,
+    "max_current_amps" : 37.71,
+    "net_diameter_mm" : 4.133,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.25,
+    "diameter_mm_div10" : 42.5,
+    "weight_g_per_m" : 125.8,
+    "section_mm2" : 14.18626,
+    "linear_resistance_ohm_per_m" : 0.001205,
+    "max_current_amps" : 42.55878,
+    "net_diameter_mm" : 4.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.5,
+    "diameter_mm_div10" : 45.0,
+    "weight_g_per_m" : 141.329494,
+    "section_mm2" : 15.904313,
+    "linear_resistance_ohm_per_m" : 0.001075,
+    "max_current_amps" : 47.712938,
+    "net_diameter_mm" : 4.637,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 5.0,
+    "diameter_mm_div10" : 50.0,
+    "weight_g_per_m" : 174.480857,
+    "section_mm2" : 19.634954,
+    "linear_resistance_ohm_per_m" : 8.71E-4,
+    "max_current_amps" : 58.904862,
+    "net_diameter_mm" : 5.141,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 6.0,
+    "diameter_mm_div10" : 60.0,
+    "weight_g_per_m" : 251.252434,
+    "section_mm2" : 28.274334,
+    "linear_resistance_ohm_per_m" : 6.05E-4,
+    "max_current_amps" : 84.823002,
+    "net_diameter_mm" : 6.14,
+    "inStock" : true
+  } ],
+  "MEDICAL" : [ {
+    "diameter_mm" : 0.02,
+    "diameter_mm_div10" : 0.2,
+    "weight_g_per_m" : 0.002796,
+    "section_mm2" : 3.14E-4,
+    "linear_resistance_ohm_per_m" : 54.431037,
+    "max_current_amps" : 6.28E-4,
+    "net_diameter_mm" : 0.027,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.025,
+    "diameter_mm_div10" : 0.25,
+    "weight_g_per_m" : 0.004369,
+    "section_mm2" : 4.9E-4,
+    "linear_resistance_ohm_per_m" : 34.835863,
+    "max_current_amps" : 9.8E-4,
+    "net_diameter_mm" : 0.034,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.03,
+    "diameter_mm_div10" : 0.3,
+    "weight_g_per_m" : 0.0063,
+    "section_mm2" : 7.07E-4,
+    "linear_resistance_ohm_per_m" : 24.191572,
+    "max_current_amps" : 0.001414,
+    "net_diameter_mm" : 0.039,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.032,
+    "diameter_mm_div10" : 0.32,
+    "weight_g_per_m" : 0.007158,
+    "section_mm2" : 8.04E-4,
+    "linear_resistance_ohm_per_m" : 21.262124,
+    "max_current_amps" : 0.001608,
+    "net_diameter_mm" : 0.043,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.036,
+    "diameter_mm_div10" : 0.36,
+    "weight_g_per_m" : 0.0086,
+    "section_mm2" : 9.62E-4,
+    "linear_resistance_ohm_per_m" : 16.799703,
+    "max_current_amps" : 0.001924,
+    "net_diameter_mm" : 0.049,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.04,
+    "diameter_mm_div10" : 0.4,
+    "weight_g_per_m" : 0.01118,
+    "section_mm2" : 0.001257,
+    "linear_resistance_ohm_per_m" : 13.607759,
+    "max_current_amps" : 0.002514,
+    "net_diameter_mm" : 0.054,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.05,
+    "diameter_mm_div10" : 0.5,
+    "weight_g_per_m" : 0.01747,
+    "section_mm2" : 0.001963,
+    "linear_resistance_ohm_per_m" : 8.708966,
+    "max_current_amps" : 0.003926,
+    "net_diameter_mm" : 0.066,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.063,
+    "diameter_mm_div10" : 0.63,
+    "weight_g_per_m" : 0.02774,
+    "section_mm2" : 0.003115,
+    "linear_resistance_ohm_per_m" : 5.485617,
+    "max_current_amps" : 0.00623,
+    "net_diameter_mm" : 0.083,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.071,
+    "diameter_mm_div10" : 0.71,
+    "weight_g_per_m" : 0.03524,
+    "section_mm2" : 0.003957,
+    "linear_resistance_ohm_per_m" : 4.319067,
+    "max_current_amps" : 0.007914,
+    "net_diameter_mm" : 0.091,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.08,
+    "diameter_mm_div10" : 0.8,
+    "weight_g_per_m" : 0.04474,
+    "section_mm2" : 0.005027,
+    "linear_resistance_ohm_per_m" : 3.40194,
+    "max_current_amps" : 0.010054,
+    "net_diameter_mm" : 0.101,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.09,
+    "diameter_mm_div10" : 0.9,
+    "weight_g_per_m" : 0.05662,
+    "section_mm2" : 0.006362,
+    "linear_resistance_ohm_per_m" : 2.687952,
+    "max_current_amps" : 0.012724,
+    "net_diameter_mm" : 0.113,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.1,
+    "diameter_mm_div10" : 1.0,
+    "weight_g_per_m" : 0.0699,
+    "section_mm2" : 0.007854,
+    "linear_resistance_ohm_per_m" : 2.177241,
+    "max_current_amps" : 0.015708,
+    "net_diameter_mm" : 0.125,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.15,
+    "diameter_mm_div10" : 1.5,
+    "weight_g_per_m" : 0.1573,
+    "section_mm2" : 0.017671,
+    "linear_resistance_ohm_per_m" : 0.967663,
+    "max_current_amps" : 0.035342,
+    "net_diameter_mm" : 0.182,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.2,
+    "diameter_mm_div10" : 2.0,
+    "weight_g_per_m" : 0.2796,
+    "section_mm2" : 0.03142,
+    "linear_resistance_ohm_per_m" : 0.54431,
+    "max_current_amps" : 0.06284,
+    "net_diameter_mm" : 0.239,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.224,
+    "diameter_mm_div10" : 2.24,
+    "weight_g_per_m" : 0.3507,
+    "section_mm2" : 0.03938,
+    "linear_resistance_ohm_per_m" : 0.433921,
+    "max_current_amps" : 0.07876,
+    "net_diameter_mm" : 0.266,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.25,
+    "diameter_mm_div10" : 2.5,
+    "weight_g_per_m" : 0.4369,
+    "section_mm2" : 0.04909,
+    "linear_resistance_ohm_per_m" : 0.348359,
+    "max_current_amps" : 0.09818,
+    "net_diameter_mm" : 0.297,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.28,
+    "diameter_mm_div10" : 2.8,
+    "weight_g_per_m" : 0.548,
+    "section_mm2" : 0.06158,
+    "linear_resistance_ohm_per_m" : 0.277709,
+    "max_current_amps" : 0.12316,
+    "net_diameter_mm" : 0.329,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.315,
+    "diameter_mm_div10" : 3.15,
+    "weight_g_per_m" : 0.6936,
+    "section_mm2" : 0.07789,
+    "linear_resistance_ohm_per_m" : 0.219425,
+    "max_current_amps" : 0.15578,
+    "net_diameter_mm" : 0.367,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.355,
+    "diameter_mm_div10" : 3.55,
+    "weight_g_per_m" : 0.8809,
+    "section_mm2" : 0.09892,
+    "linear_resistance_ohm_per_m" : 0.172763,
+    "max_current_amps" : 0.19784,
+    "net_diameter_mm" : 0.411,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.375,
+    "diameter_mm_div10" : 3.75,
+    "weight_g_per_m" : 0.983,
+    "section_mm2" : 0.11039,
+    "linear_resistance_ohm_per_m" : 0.154826,
+    "max_current_amps" : 0.22078,
+    "net_diameter_mm" : 0.435,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.4,
+    "diameter_mm_div10" : 4.0,
+    "weight_g_per_m" : 1.1184,
+    "section_mm2" : 0.1257,
+    "linear_resistance_ohm_per_m" : 0.136078,
+    "max_current_amps" : 0.2514,
+    "net_diameter_mm" : 0.459,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.45,
+    "diameter_mm_div10" : 4.5,
+    "weight_g_per_m" : 1.415,
+    "section_mm2" : 0.159,
+    "linear_resistance_ohm_per_m" : 0.107518,
+    "max_current_amps" : 0.318,
+    "net_diameter_mm" : 0.513,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.5,
+    "diameter_mm_div10" : 5.0,
+    "weight_g_per_m" : 1.783,
+    "section_mm2" : 0.1963,
+    "linear_resistance_ohm_per_m" : 0.08709,
+    "max_current_amps" : 0.3926,
+    "net_diameter_mm" : 0.566,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.56,
+    "diameter_mm_div10" : 5.6,
+    "weight_g_per_m" : 2.192,
+    "section_mm2" : 0.2461,
+    "linear_resistance_ohm_per_m" : 0.069427,
+    "max_current_amps" : 0.4922,
+    "net_diameter_mm" : 0.63,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.58,
+    "diameter_mm_div10" : 5.8,
+    "weight_g_per_m" : 2.349,
+    "section_mm2" : 0.264,
+    "linear_resistance_ohm_per_m" : 0.064722,
+    "max_current_amps" : 0.528,
+    "net_diameter_mm" : 0.651,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.6,
+    "diameter_mm_div10" : 6.0,
+    "weight_g_per_m" : 2.516,
+    "section_mm2" : 0.2827,
+    "linear_resistance_ohm_per_m" : 0.060479,
+    "max_current_amps" : 0.5654,
+    "net_diameter_mm" : 0.672,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.63,
+    "diameter_mm_div10" : 6.3,
+    "weight_g_per_m" : 2.774,
+    "section_mm2" : 0.3115,
+    "linear_resistance_ohm_per_m" : 0.054856,
+    "max_current_amps" : 0.623,
+    "net_diameter_mm" : 0.704,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.65,
+    "diameter_mm_div10" : 6.5,
+    "weight_g_per_m" : 2.95,
+    "section_mm2" : 0.3318,
+    "linear_resistance_ohm_per_m" : 0.051532,
+    "max_current_amps" : 0.6636,
+    "net_diameter_mm" : 0.725,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.67,
+    "diameter_mm_div10" : 6.7,
+    "weight_g_per_m" : 3.138,
+    "section_mm2" : 0.3524,
+    "linear_resistance_ohm_per_m" : 0.048502,
+    "max_current_amps" : 0.7048,
+    "net_diameter_mm" : 0.747,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.7,
+    "diameter_mm_div10" : 7.0,
+    "weight_g_per_m" : 3.496,
+    "section_mm2" : 0.3848,
+    "linear_resistance_ohm_per_m" : 0.044433,
+    "max_current_amps" : 0.7696,
+    "net_diameter_mm" : 0.778,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.71,
+    "diameter_mm_div10" : 7.1,
+    "weight_g_per_m" : 3.524,
+    "section_mm2" : 0.3957,
+    "linear_resistance_ohm_per_m" : 0.043191,
+    "max_current_amps" : 0.7914,
+    "net_diameter_mm" : 0.789,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.75,
+    "diameter_mm_div10" : 7.5,
+    "weight_g_per_m" : 3.928,
+    "section_mm2" : 0.4418,
+    "linear_resistance_ohm_per_m" : 0.038707,
+    "max_current_amps" : 0.8836,
+    "net_diameter_mm" : 0.831,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.8,
+    "diameter_mm_div10" : 8.0,
+    "weight_g_per_m" : 4.469,
+    "section_mm2" : 0.5027,
+    "linear_resistance_ohm_per_m" : 0.034019,
+    "max_current_amps" : 1.0054,
+    "net_diameter_mm" : 0.884,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.85,
+    "diameter_mm_div10" : 8.5,
+    "weight_g_per_m" : 5.045,
+    "section_mm2" : 0.5675,
+    "linear_resistance_ohm_per_m" : 0.030135,
+    "max_current_amps" : 1.135,
+    "net_diameter_mm" : 0.937,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.9,
+    "diameter_mm_div10" : 9.0,
+    "weight_g_per_m" : 5.656,
+    "section_mm2" : 0.6362,
+    "linear_resistance_ohm_per_m" : 0.02688,
+    "max_current_amps" : 1.2724,
+    "net_diameter_mm" : 0.989,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 0.95,
+    "diameter_mm_div10" : 9.5,
+    "weight_g_per_m" : 6.301,
+    "section_mm2" : 0.7088,
+    "linear_resistance_ohm_per_m" : 0.024125,
+    "max_current_amps" : 1.4176,
+    "net_diameter_mm" : 1.042,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.0,
+    "diameter_mm_div10" : 10.0,
+    "weight_g_per_m" : 6.982,
+    "section_mm2" : 0.7854,
+    "linear_resistance_ohm_per_m" : 0.021772,
+    "max_current_amps" : 1.5708,
+    "net_diameter_mm" : 1.094,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.05,
+    "diameter_mm_div10" : 10.5,
+    "weight_g_per_m" : 7.693,
+    "section_mm2" : 0.8664,
+    "linear_resistance_ohm_per_m" : 0.019748,
+    "max_current_amps" : 1.7328,
+    "net_diameter_mm" : 1.145,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.06,
+    "diameter_mm_div10" : 10.6,
+    "weight_g_per_m" : 7.845,
+    "section_mm2" : 0.882,
+    "linear_resistance_ohm_per_m" : 0.019377,
+    "max_current_amps" : 1.764,
+    "net_diameter_mm" : 1.156,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.12,
+    "diameter_mm_div10" : 11.2,
+    "weight_g_per_m" : 9.227,
+    "section_mm2" : 1.0382,
+    "linear_resistance_ohm_per_m" : 0.017357,
+    "max_current_amps" : 2.0764,
+    "net_diameter_mm" : 1.217,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.18,
+    "diameter_mm_div10" : 11.8,
+    "weight_g_per_m" : 9.722,
+    "section_mm2" : 1.093,
+    "linear_resistance_ohm_per_m" : 0.015637,
+    "max_current_amps" : 2.186,
+    "net_diameter_mm" : 1.278,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.2,
+    "diameter_mm_div10" : 12.0,
+    "weight_g_per_m" : 10.05,
+    "section_mm2" : 1.131,
+    "linear_resistance_ohm_per_m" : 0.01512,
+    "max_current_amps" : 2.262,
+    "net_diameter_mm" : 1.298,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.25,
+    "diameter_mm_div10" : 12.5,
+    "weight_g_per_m" : 10.9,
+    "section_mm2" : 1.227,
+    "linear_resistance_ohm_per_m" : 0.013934,
+    "max_current_amps" : 2.454,
+    "net_diameter_mm" : 1.349,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.3,
+    "diameter_mm_div10" : 13.0,
+    "weight_g_per_m" : 11.96,
+    "section_mm2" : 1.327,
+    "linear_resistance_ohm_per_m" : 0.012883,
+    "max_current_amps" : 2.654,
+    "net_diameter_mm" : 1.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.32,
+    "diameter_mm_div10" : 13.2,
+    "weight_g_per_m" : 12.16,
+    "section_mm2" : 1.367,
+    "linear_resistance_ohm_per_m" : 0.012496,
+    "max_current_amps" : 2.734,
+    "net_diameter_mm" : 1.43,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.4,
+    "diameter_mm_div10" : 14.0,
+    "weight_g_per_m" : 13.68,
+    "section_mm2" : 1.539,
+    "linear_resistance_ohm_per_m" : 0.011108,
+    "max_current_amps" : 3.078,
+    "net_diameter_mm" : 1.502,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.5,
+    "diameter_mm_div10" : 15.0,
+    "weight_g_per_m" : 15.79,
+    "section_mm2" : 1.767,
+    "linear_resistance_ohm_per_m" : 0.009677,
+    "max_current_amps" : 3.534,
+    "net_diameter_mm" : 1.6,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.6,
+    "diameter_mm_div10" : 16.0,
+    "weight_g_per_m" : 17.87,
+    "section_mm2" : 2.011,
+    "linear_resistance_ohm_per_m" : 0.008505,
+    "max_current_amps" : 4.022,
+    "net_diameter_mm" : 1.706,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.7,
+    "diameter_mm_div10" : 17.0,
+    "weight_g_per_m" : 20.18,
+    "section_mm2" : 2.27,
+    "linear_resistance_ohm_per_m" : 0.007534,
+    "max_current_amps" : 4.54,
+    "net_diameter_mm" : 1.8075,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.8,
+    "diameter_mm_div10" : 18.0,
+    "weight_g_per_m" : 22.62,
+    "section_mm2" : 2.545,
+    "linear_resistance_ohm_per_m" : 0.00672,
+    "max_current_amps" : 5.09,
+    "net_diameter_mm" : 1.909,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 1.9,
+    "diameter_mm_div10" : 19.0,
+    "weight_g_per_m" : 25.21,
+    "section_mm2" : 2.835,
+    "linear_resistance_ohm_per_m" : 0.006031,
+    "max_current_amps" : 5.67,
+    "net_diameter_mm" : 2.01,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.0,
+    "diameter_mm_div10" : 20.0,
+    "weight_g_per_m" : 27.93,
+    "section_mm2" : 3.142,
+    "linear_resistance_ohm_per_m" : 0.005443,
+    "max_current_amps" : 6.284,
+    "net_diameter_mm" : 2.112,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.1,
+    "diameter_mm_div10" : 21.0,
+    "weight_g_per_m" : 31.33,
+    "section_mm2" : 3.52,
+    "linear_resistance_ohm_per_m" : 0.004937,
+    "max_current_amps" : 7.04,
+    "net_diameter_mm" : 2.213,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.12,
+    "diameter_mm_div10" : 21.2,
+    "weight_g_per_m" : 31.38,
+    "section_mm2" : 3.528,
+    "linear_resistance_ohm_per_m" : 0.004844,
+    "max_current_amps" : 7.056,
+    "net_diameter_mm" : 2.234,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.2,
+    "diameter_mm_div10" : 22.0,
+    "weight_g_per_m" : 34.12,
+    "section_mm2" : 3.801,
+    "linear_resistance_ohm_per_m" : 0.004498,
+    "max_current_amps" : 7.602,
+    "net_diameter_mm" : 2.315,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.24,
+    "diameter_mm_div10" : 22.4,
+    "weight_g_per_m" : 35.03,
+    "section_mm2" : 3.938,
+    "linear_resistance_ohm_per_m" : 0.004339,
+    "max_current_amps" : 7.876,
+    "net_diameter_mm" : 2.355,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.36,
+    "diameter_mm_div10" : 23.6,
+    "weight_g_per_m" : 38.88,
+    "section_mm2" : 4.372,
+    "linear_resistance_ohm_per_m" : 0.003909,
+    "max_current_amps" : 8.744,
+    "net_diameter_mm" : 2.48,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.4,
+    "diameter_mm_div10" : 24.0,
+    "weight_g_per_m" : 40.59,
+    "section_mm2" : 4.524,
+    "linear_resistance_ohm_per_m" : 0.00378,
+    "max_current_amps" : 9.048,
+    "net_diameter_mm" : 2.515,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.5,
+    "diameter_mm_div10" : 25.0,
+    "weight_g_per_m" : 43.64,
+    "section_mm2" : 4.909,
+    "linear_resistance_ohm_per_m" : 0.003484,
+    "max_current_amps" : 9.818,
+    "net_diameter_mm" : 2.618,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.6,
+    "diameter_mm_div10" : 26.0,
+    "weight_g_per_m" : 47.6,
+    "section_mm2" : 5.309,
+    "linear_resistance_ohm_per_m" : 0.003221,
+    "max_current_amps" : 10.618,
+    "net_diameter_mm" : 2.72,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.65,
+    "diameter_mm_div10" : 26.5,
+    "weight_g_per_m" : 49.03,
+    "section_mm2" : 5.515,
+    "linear_resistance_ohm_per_m" : 0.0031,
+    "max_current_amps" : 11.03,
+    "net_diameter_mm" : 2.777,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 2.8,
+    "diameter_mm_div10" : 28.0,
+    "weight_g_per_m" : 54.74,
+    "section_mm2" : 6.158,
+    "linear_resistance_ohm_per_m" : 0.002777,
+    "max_current_amps" : 12.316,
+    "net_diameter_mm" : 2.922,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.0,
+    "diameter_mm_div10" : 30.0,
+    "weight_g_per_m" : 62.84,
+    "section_mm2" : 7.069,
+    "linear_resistance_ohm_per_m" : 0.002419,
+    "max_current_amps" : 14.138,
+    "net_diameter_mm" : 3.122,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.15,
+    "diameter_mm_div10" : 31.5,
+    "weight_g_per_m" : 65.28,
+    "section_mm2" : 7.789,
+    "linear_resistance_ohm_per_m" : 0.002194,
+    "max_current_amps" : 15.578,
+    "net_diameter_mm" : 3.276,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.35,
+    "diameter_mm_div10" : 33.5,
+    "weight_g_per_m" : 78.36,
+    "section_mm2" : 8.809,
+    "linear_resistance_ohm_per_m" : 0.00194,
+    "max_current_amps" : 17.618,
+    "net_diameter_mm" : 3.376,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.55,
+    "diameter_mm_div10" : 35.5,
+    "weight_g_per_m" : 87.99,
+    "section_mm2" : 9.892,
+    "linear_resistance_ohm_per_m" : 0.001728,
+    "max_current_amps" : 19.784,
+    "net_diameter_mm" : 3.679,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 3.75,
+    "diameter_mm_div10" : 37.5,
+    "weight_g_per_m" : 98.18,
+    "section_mm2" : 11.03,
+    "linear_resistance_ohm_per_m" : 0.001548,
+    "max_current_amps" : 22.06,
+    "net_diameter_mm" : 3.88,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.0,
+    "diameter_mm_div10" : 40.0,
+    "weight_g_per_m" : 111.7,
+    "section_mm2" : 12.57,
+    "linear_resistance_ohm_per_m" : 0.001361,
+    "max_current_amps" : 25.14,
+    "net_diameter_mm" : 4.133,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.25,
+    "diameter_mm_div10" : 42.5,
+    "weight_g_per_m" : 125.8,
+    "section_mm2" : 14.18626,
+    "linear_resistance_ohm_per_m" : 0.001205,
+    "max_current_amps" : 28.37252,
+    "net_diameter_mm" : 4.4,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 4.5,
+    "diameter_mm_div10" : 45.0,
+    "weight_g_per_m" : 141.329494,
+    "section_mm2" : 15.904313,
+    "linear_resistance_ohm_per_m" : 0.001075,
+    "max_current_amps" : 31.808626,
+    "net_diameter_mm" : 4.637,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 5.0,
+    "diameter_mm_div10" : 50.0,
+    "weight_g_per_m" : 174.480857,
+    "section_mm2" : 19.634954,
+    "linear_resistance_ohm_per_m" : 8.71E-4,
+    "max_current_amps" : 39.269908,
+    "net_diameter_mm" : 5.141,
+    "inStock" : true
+  }, {
+    "diameter_mm" : 6.0,
+    "diameter_mm_div10" : 60.0,
+    "weight_g_per_m" : 251.252434,
+    "section_mm2" : 28.274334,
+    "linear_resistance_ohm_per_m" : 6.05E-4,
+    "max_current_amps" : 56.548668,
+    "net_diameter_mm" : 6.14,
+    "inStock" : true
+  } ]
+}

@@ -1,0 +1,205 @@
+[ {
+  "a" : 2.8,
+  "b" : 2.8,
+  "weight" : 896.0,
+  "section" : 7.84,
+  "inStock" : true
+}, {
+  "a" : 2.8,
+  "b" : 3.2,
+  "weight" : 1024.0,
+  "section" : 8.96,
+  "inStock" : true
+}, {
+  "a" : 2.8,
+  "b" : 3.6,
+  "weight" : 1152.0,
+  "section" : 10.08,
+  "inStock" : true
+}, {
+  "a" : 2.8,
+  "b" : 4.0,
+  "weight" : 1280.0,
+  "section" : 11.2,
+  "inStock" : true
+}, {
+  "a" : 3.2,
+  "b" : 3.2,
+  "weight" : 1494.4,
+  "section" : 10.24,
+  "inStock" : true
+}, {
+  "a" : 3.2,
+  "b" : 3.6,
+  "weight" : 1681.2,
+  "section" : 11.52,
+  "inStock" : true
+}, {
+  "a" : 3.2,
+  "b" : 4.0,
+  "weight" : 1868.0,
+  "section" : 12.8,
+  "inStock" : true
+}, {
+  "a" : 3.2,
+  "b" : 5.0,
+  "weight" : 2335.0,
+  "section" : 16.0,
+  "inStock" : true
+}, {
+  "a" : 3.6,
+  "b" : 3.6,
+  "weight" : 2052.0,
+  "section" : 12.96,
+  "inStock" : true
+}, {
+  "a" : 3.6,
+  "b" : 4.0,
+  "weight" : 2280.0,
+  "section" : 14.4,
+  "inStock" : true
+}, {
+  "a" : 3.6,
+  "b" : 5.0,
+  "weight" : 2850.0,
+  "section" : 18.0,
+  "inStock" : true
+}, {
+  "a" : 3.6,
+  "b" : 6.0,
+  "weight" : 3420.0,
+  "section" : 21.6,
+  "inStock" : true
+}, {
+  "a" : 4.0,
+  "b" : 5.0,
+  "weight" : 3575.0,
+  "section" : 20.0,
+  "inStock" : true
+}, {
+  "a" : 4.0,
+  "b" : 6.0,
+  "weight" : 4290.0,
+  "section" : 24.0,
+  "inStock" : true
+}, {
+  "a" : 4.0,
+  "b" : 7.0,
+  "weight" : 5005.0,
+  "section" : 28.0,
+  "inStock" : true
+}, {
+  "a" : 4.0,
+  "b" : 8.0,
+  "weight" : 5720.0,
+  "section" : 32.0,
+  "inStock" : true
+}, {
+  "a" : 5.0,
+  "b" : 5.0,
+  "weight" : 5315.0,
+  "section" : 25.0,
+  "inStock" : true
+}, {
+  "a" : 5.0,
+  "b" : 6.0,
+  "weight" : 6378.0,
+  "section" : 30.0,
+  "inStock" : true
+}, {
+  "a" : 5.0,
+  "b" : 7.0,
+  "weight" : 7441.0,
+  "section" : 35.0,
+  "inStock" : true
+}, {
+  "a" : 5.0,
+  "b" : 8.0,
+  "weight" : 8504.0,
+  "section" : 40.0,
+  "inStock" : true
+}, {
+  "a" : 5.0,
+  "b" : 9.0,
+  "weight" : 9567.0,
+  "section" : 45.0,
+  "inStock" : true
+}, {
+  "a" : 6.0,
+  "b" : 6.0,
+  "weight" : 9840.0,
+  "section" : 36.0,
+  "inStock" : true
+}, {
+  "a" : 6.0,
+  "b" : 7.0,
+  "weight" : 11480.0,
+  "section" : 42.0,
+  "inStock" : true
+}, {
+  "a" : 6.0,
+  "b" : 8.0,
+  "weight" : 13120.0,
+  "section" : 48.0,
+  "inStock" : true
+}, {
+  "a" : 6.0,
+  "b" : 9.0,
+  "weight" : 14760.0,
+  "section" : 54.0,
+  "inStock" : true
+}, {
+  "a" : 6.0,
+  "b" : 10.0,
+  "weight" : 16400.0,
+  "section" : 60.0,
+  "inStock" : true
+}, {
+  "a" : 6.0,
+  "b" : 12.0,
+  "weight" : 19680.0,
+  "section" : 72.0,
+  "inStock" : true
+}, {
+  "a" : 6.0,
+  "b" : 15.0,
+  "weight" : 24600.0,
+  "section" : 90.0,
+  "inStock" : true
+}, {
+  "a" : 8.0,
+  "b" : 8.0,
+  "weight" : 23520.0,
+  "section" : 64.0,
+  "inStock" : true
+}, {
+  "a" : 8.0,
+  "b" : 9.0,
+  "weight" : 26460.0,
+  "section" : 72.0,
+  "inStock" : true
+}, {
+  "a" : 8.0,
+  "b" : 10.0,
+  "weight" : 29400.0,
+  "section" : 80.0,
+  "inStock" : true
+}, {
+  "a" : 8.0,
+  "b" : 12.0,
+  "weight" : 35280.0,
+  "section" : 96.0,
+  "inStock" : true
+}, {
+  "a" : 8.0,
+  "b" : 15.0,
+  "weight" : 44100.0,
+  "section" : 120.0,
+  "inStock" : true
+}, {
+  "a" : 8.0,
+  "b" : 20.0,
+  "weight" : 58800.0,
+  "section" : 160.0,
+  "inStock" : true
+} ]
