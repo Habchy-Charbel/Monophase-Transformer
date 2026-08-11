@@ -16,6 +16,42 @@ const GRADE_COLORS: Record<TransformerGrade, string> = {
   MEDICAL:    '#ec4899',
 };
 
+interface FieldProps {
+  label: string;
+  value: string;
+  setter: (v: string) => void;
+  placeholder: string;
+  unit: string;
+}
+
+const handleFieldBlur = (val: string, setter: (v: string) => void) => {
+  if (!val || val.trim() === '') return;
+  const num = parseFloat(val);
+  if (!isNaN(num)) setter(String(Math.round(num * 100) / 100));
+};
+
+const Field: React.FC<FieldProps> = ({
+  label, value, setter, placeholder, unit,
+}) => (
+  <div className="ios-input-group">
+    <label className="ios-label">{label}</label>
+    <div className="input-wrap">
+      <input
+        type="number"
+        step="any"
+        inputMode="decimal"
+        value={value}
+        onChange={e => setter(e.target.value)}
+        onBlur={() => handleFieldBlur(value, setter)}
+        className="ios-input"
+        placeholder={placeholder}
+        style={{ paddingRight: unit.length > 4 ? 52 : 44, fontFamily: 'var(--font-mono)' }}
+      />
+      <span className="input-unit">{unit}</span>
+    </div>
+  </div>
+);
+
 export const MonophaseCalculator: React.FC<MonophaseCalculatorProps> = ({ onCalculate }) => {
   const [grade, setGrade] = useState<TransformerGrade>('COMMERCIAL');
   const [frequency, setFrequency] = useState<number>(50);
@@ -31,12 +67,6 @@ export const MonophaseCalculator: React.FC<MonophaseCalculatorProps> = ({ onCalc
   const [accessoriesPrice, setAccessoriesPrice] = useState<string>('2.0');
 
   const [errorMsg, setErrorMsg] = useState<string | null>(null);
-
-  const handleBlur = (val: string, setter: (v: string) => void) => {
-    if (!val || val.trim() === '') return;
-    const num = parseFloat(val);
-    if (!isNaN(num)) setter(String(Math.round(num * 100) / 100));
-  };
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
@@ -81,29 +111,6 @@ export const MonophaseCalculator: React.FC<MonophaseCalculatorProps> = ({ onCalc
     setAccessoriesPrice('2.0');
     setErrorMsg(null);
   };
-
-  const Field = ({
-    label, value, setter, placeholder, unit,
-  }: {
-    label: string; value: string; setter: (v: string) => void; placeholder: string; unit: string;
-  }) => (
-    <div className="ios-input-group">
-      <label className="ios-label">{label}</label>
-      <div className="input-wrap">
-        <input
-          type="number"
-          step="any"
-          value={value}
-          onChange={e => setter(e.target.value)}
-          onBlur={() => handleBlur(value, setter)}
-          className="ios-input"
-          placeholder={placeholder}
-          style={{ paddingRight: unit.length > 4 ? 52 : 44, fontFamily: 'var(--font-mono)' }}
-        />
-        <span className="input-unit">{unit}</span>
-      </div>
-    </div>
-  );
 
   return (
     <div className="view-enter" style={{ maxWidth: 820, margin: '0 auto' }}>
