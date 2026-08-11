@@ -2,30 +2,29 @@
   "name": "Portable Transformer",
   "short_name": "Transformer",
   "description": "Monophase transformer calculation tool with blueprint export and database stock management.",
-  "start_url": "/",
-  "scope": "/",
-  "id": "/",
+  "start_url": "/Monophase-Transformer/",
+  "scope": "/Monophase-Transformer/",
+  "id": "/Monophase-Transformer/",
   "display": "standalone",
-  "display_override": ["standalone", "minimal-ui", "window-controls-overlay"],
   "orientation": "any",
   "background_color": "#0a0f1e",
   "theme_color": "#0a0f1e",
   "categories": ["utilities", "productivity"],
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "/Monophase-Transformer/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "/Monophase-Transformer/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "/icons/icon-512-maskable.png",
+      "src": "/Monophase-Transformer/icons/icon-512-maskable.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
