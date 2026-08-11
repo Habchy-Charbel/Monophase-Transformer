@@ -105,6 +105,7 @@ export const CopperWireDatabaseView: React.FC = () => {
             {filteredIndices.map(({ wire, idx }) => (
               <div
                 key={wire.diameter_mm}
+                className="db-list-row"
                 style={{
                   display: 'flex',
                   alignItems: 'center',
@@ -114,7 +115,6 @@ export const CopperWireDatabaseView: React.FC = () => {
                   borderRadius: 12,
                   transition: 'background 0.15s ease',
                   cursor: 'default',
-                  flexWrap: 'wrap',
                 }}
                 onMouseEnter={e => (e.currentTarget.style.background = 'rgba(255,255,255,0.04)')}
                 onMouseLeave={e => (e.currentTarget.style.background = 'transparent')}
@@ -142,8 +142,9 @@ export const CopperWireDatabaseView: React.FC = () => {
                   </div>
                 </div>
 
-                <div style={{ display: 'flex', alignItems: 'center', gap: 6, flexShrink: 0 }}>
+                <div className="db-row-actions">
                   <button
+                    type="button"
                     onClick={() => handleStockToggle(wire, !wire.inStock)}
                     className={`status-badge ${wire.inStock ? 'status-instock' : 'status-outstock'}`}
                   >
@@ -153,6 +154,7 @@ export const CopperWireDatabaseView: React.FC = () => {
                     }
                   </button>
                   <button
+                    type="button"
                     onClick={() => setDetailItemIndex(idx)}
                     className="ios-button ios-button-secondary"
                     style={{ padding: '6px 12px', fontSize: 12 }}

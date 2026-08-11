@@ -1,6 +1,7 @@
 import React from 'react';
 import type { CopperWire } from '../types/transformer';
 import { X, CheckCircle, XCircle } from 'lucide-react';
+import { ModalPortal } from './ModalPortal';
 
 interface CopperWireDetailModalProps {
   commercial: CopperWire;
@@ -25,6 +26,7 @@ export const CopperWireDetailModal: React.FC<CopperWireDetailModalProps> = ({
   const fv = (v: number, d = 5) => v.toFixed(d);
 
   return (
+    <ModalPortal>
     <div className="modal-backdrop" onClick={e => { if (e.target === e.currentTarget) onClose(); }}>
       <div className="glass-card" style={{
         width: '100%', maxWidth: 520,
@@ -131,5 +133,6 @@ export const CopperWireDetailModal: React.FC<CopperWireDetailModalProps> = ({
         </div>
       </div>
     </div>
+    </ModalPortal>
   );
 };

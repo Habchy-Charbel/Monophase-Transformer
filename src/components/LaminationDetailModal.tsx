@@ -1,6 +1,7 @@
 import React from 'react';
 import type { Lamination } from '../types/transformer';
 import { X, CheckCircle, XCircle, Layers } from 'lucide-react';
+import { ModalPortal } from './ModalPortal';
 
 interface LaminationDetailModalProps {
   lamination: Lamination;
@@ -14,8 +15,9 @@ export const LaminationDetailModal: React.FC<LaminationDetailModalProps> = ({
   const seriesName = `EL ${Math.round(lamination.a * 30)}`;
 
   return (
+    <ModalPortal>
     <div className="modal-backdrop" onClick={e => { if (e.target === e.currentTarget) onClose(); }}>
-      <div className="glass-card" style={{ width: '100%', maxWidth: 440 }}>
+      <div className="glass-card" style={{ width: '100%', maxWidth: 440, maxHeight: '90dvh', overflowY: 'auto', display: 'flex', flexDirection: 'column' }}>
 
         <div style={{
           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
@@ -111,5 +113,6 @@ export const LaminationDetailModal: React.FC<LaminationDetailModalProps> = ({
         </div>
       </div>
     </div>
+    </ModalPortal>
   );
 };

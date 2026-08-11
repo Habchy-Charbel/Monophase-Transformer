@@ -137,11 +137,11 @@ export const LaminationDatabaseView: React.FC = () => {
                     {items.map(lam => (
                       <div
                         key={`${lam.a}_${lam.b}`}
+                        className="db-list-row"
                         style={{
                           display: 'flex', alignItems: 'center', justifyContent: 'space-between',
                           gap: 8, padding: '10px 12px', borderRadius: 10,
                           transition: 'background 0.14s ease',
-                          flexWrap: 'wrap',
                         }}
                         onMouseEnter={e => (e.currentTarget.style.background = 'rgba(255,255,255,0.04)')}
                         onMouseLeave={e => (e.currentTarget.style.background = 'transparent')}
@@ -161,8 +161,9 @@ export const LaminationDatabaseView: React.FC = () => {
                           </div>
                         </div>
 
-                        <div style={{ display: 'flex', alignItems: 'center', gap: 6, flexShrink: 0 }}>
+                        <div className="db-row-actions">
                           <button
+                            type="button"
                             onClick={() => handleStockToggle(lam, !lam.inStock)}
                             className={`status-badge ${lam.inStock ? 'status-instock' : 'status-outstock'}`}
                           >
@@ -172,6 +173,7 @@ export const LaminationDatabaseView: React.FC = () => {
                             }
                           </button>
                           <button
+                            type="button"
                             onClick={() => setSelectedLamination(lam)}
                             className="ios-button ios-button-secondary"
                             style={{ padding: '6px 12px', fontSize: 12 }}

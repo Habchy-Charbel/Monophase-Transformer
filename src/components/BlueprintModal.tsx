@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import type { CalculationResult } from '../types/transformer';
 import { drawBlueprintOnCanvas } from '../utils/blueprint';
 import { Download, Printer, X, FileText } from 'lucide-react';
+import { ModalPortal } from './ModalPortal';
 
 interface BlueprintModalProps {
   result: CalculationResult;
@@ -24,6 +25,7 @@ export const BlueprintModal: React.FC<BlueprintModalProps> = ({ result, onClose 
   };
 
   return (
+    <ModalPortal>
     <div
       className="modal-backdrop"
       onClick={e => { if (e.target === e.currentTarget) onClose(); }}
@@ -99,7 +101,7 @@ export const BlueprintModal: React.FC<BlueprintModalProps> = ({ result, onClose 
           />
         </div>
 
-        <div className="no-print" style={{
+        <div className="no-print blueprint-actions" style={{
           display: 'flex', justifyContent: 'flex-end', gap: 10, flexWrap: 'wrap',
           padding: '14px 22px', borderTop: '1px solid var(--border-subtle)',
         }}>
@@ -114,5 +116,6 @@ export const BlueprintModal: React.FC<BlueprintModalProps> = ({ result, onClose 
         </div>
       </div>
     </div>
+    </ModalPortal>
   );
 };
